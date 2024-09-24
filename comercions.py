@@ -95,5 +95,4 @@ with open(nombre_archivo, mode='w', newline='', encoding='ISO-8859-1') as archiv
 
 print(f"Archivo {nombre_archivo} creado y datos escritos correctamente.")"""
 
-
-buscarNombresRastros("denue_inegi_31_.csv")
+buscarNombresRastros("data/denue_inegi_31_.csv")

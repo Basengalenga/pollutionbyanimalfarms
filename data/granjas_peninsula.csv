@@ -1,0 +1,289 @@
+FID,the_geom,DELEGACION,MUNICIPIO,LOCALIDAD,DOM_UPP,NOM_UPP,SIST_TEC,SIST_SEMI,POLLO_ENG,HUEVO_PLA,CAP_INST,CAP_UTIL,NUM_NAVES,SUP_MT,VALIDADO,ESTATUS,PROD_LECH,ENGORDA,CICLO_COM,CAB_VIENT,CAB_LECH,CAB_CREC,CAB_FIN,CAB_SEM,TOTAL_ANIM,RAZA_PRINC,TIPO,FECHA,class
+granjas_peninsula.1,POINT (-90.47348899976615 19.6302529998219),Campeche,Campeche,Uayamón,Km. 24 + 500 carretera Seybaplaya - Uayamón.,"Buenaventura Grupo Pecuario, S.A. de C.V. Productora (San Fernando Uayamón)",X,,,X,140000,25,4,100000,Si,Activo,,,,,,,,,,,Granjas avicolas,2015,3
+granjas_peninsula.2,POINT (-90.41630500046523 19.698166000098936),Campeche,Campeche,Uayamón,Km. 2 + 400 carretera Seybaplaya - Uayamón.,"Buenaventura Grupo Pecuario, S.A. de C.V. Productora (Monasterio)",X,,,X,140000,25,4,70800,Si,Activo,,,,,,,,,,,Granjas avicolas,2015,3
+granjas_peninsula.3,POINT (-90.47033299992164 19.611750000169447),Campeche,Campeche,Hobomó,Km. 25 + 000 carretera Seybaplaya - Uayamón.,"Buenaventura Grupo Pecuario, S.A. de C.V. Productora (Hobomó)",X,,,X,140000,30,4,120000,Si,Activo,,,,,,,,,,,Granjas avicolas,2015,3
+granjas_peninsula.4,POINT (-90.10729599991598 19.730616000309098),Campeche,Campeche,Pueblo Nuevo,Km. 55 + 000 carretera Campeche - Hopelchén.,"Buenaventura Grupo Pecuario, S.A. de C.V. Productora Pueblo Nuevo (Tres Américas)",X,,,X,735000,24,21,50000,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,2
+granjas_peninsula.5,POINT (-90.13513799995462 19.421360999747655),Campeche,Campeche,Quezal Edzná,"Prolongación de Avenida Central de la localidad, después de las áreas agrícolas.","Productos Agropecuarios de Tehuacán, S.A. de C.V. (Ropesa)",X,,,X,1536000,11,32,530000,Si,Activo,,,,,,,,,,,Granjas avicolas,2015,2
+granjas_peninsula.6,POINT (-90.41177099964418 19.778907999526783),Campeche,Campeche,X-Campéu Exhacienda,"Km. 18 + 000 carretera Campeche - Hopelchen, terracería a la derecha km. 6 + 500.","Buenaventura Grupo Pecuario, S.A. de C.V. Productora (La Providencia)",X,,,X,140000,31,5,40000,Si,Activo,,,,,,,,,,,Granjas avicolas,2015,3
+granjas_peninsula.7,POINT (-90.14317600034066 19.75978999974164),Campeche,Campeche,San Antonio Cayal,Km. 51 + 500 carretera Campeche - Hopelchén.,"Buenaventura Grupo Pecuario, S.A. de C.V. Productora (Cayal)",X,,,X,1400000,45,40,150000,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,1
+granjas_peninsula.8,POINT (-89.80014500001282 19.883999000441964),Campeche,Hopelchén,Katab,"Km. 103 + 00 carretera Umán - Hopelchen, a 650 m. después del entronque a la localidad de Katab.","Buenaventura Grupo Pecuario, S.A. de C.V. Productora (San Luis Yaa Lak)",X,,,X,490000,11,14,700000,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,2
+granjas_peninsula.9,POINT (-89.64613200040606 19.37104599979098),Campeche,Hopelchén,Dzibalchén,Km. 7 + 000 carretera Dzibalchén - Xpujil.,"Buenaventura Grupo Pecuario, S.A. de C.V.",X,,,X,595000,11,17,80000,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,2
+granjas_peninsula.10,POINT (-90.17275500002276 19.67761599977044),Campeche,Campeche,San Antonio Cayal,Km. 8 + 000 Carretera San Antonio Cayal - Haltunchén,"Buenaventura Grupo Pecuario, S.A. de C.V. Productora (Carolina)",X,,,X,560000,25,16,850000,Si,Activo,,,,,,,,,,,Granjas avicolas,2015,2
+granjas_peninsula.11,POINT (-90.07080555536861 20.284777777378956),Campeche,Calkiní,Bacabchén,Bacabchén km. 90.,San Diego Xmac,X,,X,,25000,18,5,5250,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.12,POINT (-90.15784900033518 20.15889899984651),Campeche,Hecelchakán,Pomuch,Km. 3 libramiento Hecelchakán - Pomuch.,Granja Hecelchakán 01,X,,X,,280000,100,8,16632,Si,Activo,,,,,,,,,,,Granjas avicolas,2010,3
+granjas_peninsula.13,POINT (-90.16306999982066 20.15379799974371),Campeche,Hecelchakán,Pomuch,Km. 3 libramiento Hecelchakán - Pomuch.,Granja Hecelchakán 02,X,,X,,280000,100,8,16632,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.14,POINT (-90.16747899990108 20.15037000007274),Campeche,Hecelchakán,Pomuch,Km. 3 libramiento Hecelchakán - Pomuch.,Granja Hecelchakán 03,X,,X,,280000,100,8,16632,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.15,POINT (-90.4636939999883 19.873479999639382),Campeche,Campeche,Imí,Calle 19 entre 10 y 12 s/n.,"Bachoco, S.A. de C.V. Crianza San José",X,,X,,140000,76,4,30000,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.16,POINT (-90.3020779996915 19.81557500010932),Campeche,Campeche,Nilchí,Km. 28 + 000 carretera Campeche - Hopelchén.,"Bachoco, S.A. de C.V. Crianza Xtun",,X,X,,350000,71,10,40000,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.17,POINT (-90.28635199989304 19.802964999660922),Campeche,Campeche,Nilchi,Km. 30 + 000 carretera Campeche - Hopelchén.,"Bachoco, S.A. de C.V. Crianza Ivette",X,,X,,140000,65,4,200000,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.18,POINT (-90.28044200040075 19.802166000246853),Campeche,Campeche,Nilchi,Km. 30 + 700 carretera Campeche - Hopelchén.,"Bachoco, S.A. de C.V. Crianza Crucero",,X,X,,210000,73,6,200000,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.19,POINT (-90.07801944015911 19.702241669847503),Campeche,Campeche,Crucero Oxá,Conocido.,"Buenaventura Grupo Pecuario, S.A. de C.V. Crianza Crucero de Oxa",X,,X,,980000,87,28,100000,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,2
+granjas_peninsula.20,POINT (-90.2590290000912 20.01736100034397),Campeche,Tenabo,Tenabo,Km. 35 + 000 carretera Campeche-Hopelchén,"Buenaventura Grupo Pecuario, S.A. de C.V. Crianza San Antonio",X,,X,,40000,100,4,10000,Si,Activo,,,,,,,,,,,Granjas avicolas,2015,3
+granjas_peninsula.21,POINT (-90.39356599982528 19.497593999933155),Campeche,Champotón,Hool,Km. 5 + 500  camino Hool-Adolfo Ruíz Cortinez,"Buenaventura Grupo Pecuario, S.A. de C.V. Crianza Montana",X,,X,,175000,68,5,2100000,Si,Activo,,,,,,,,,,,Granjas avicolas,2015,3
+granjas_peninsula.22,POINT (-88.12700000016923 19.610473999744848),Quintana Roo,Felipe Carrillo Puerto,Felipe Carrillo Puerto,Carretera Federal 184 Felipe Carrillo Puerto-Oxkutzcab km. 6.,Socorro,X,,X,,430950,36,9,13050,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.23,POINT (-88.14699999994517 19.133033999654813),Quintana Roo,Bacalar,Noh Bec,"Carretera Federal 307 Chetumal-Cancún, tramo Limones-Andrés Quintana Roo km. 10.8 desviación a Noh-Bec.",Noh - Bec,X,,X,,1084800,23,17,24650,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,2
+granjas_peninsula.24,POINT (-89.46656700025889 20.76668299978822),Yucatán,Tecoh,Tecoh,km. 2.5 carretera Acanceh - Tecoh.,Santa Rita,X,,X,,100,209364,4,34797.546634,Si,Activo,,,,,,,,,,,Granjas avicolas,2005,3
+granjas_peninsula.25,POINT (-89.49137000011233 20.70913599969878),Yucatán,Tecoh,Tecoh,Km. 1 carretera Lepan t 1539.,San Francisco Lepan 1,X,,X,,100,135878,5,37742.010969,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.26,POINT (-89.491633000054 20.714166999604426),Yucatán,Tecoh,Tecoh,Km. 1 carretera Lepan t 1539.,San Francisco Lepan 2,X,,X,,100,62000,1,33467.808872,Si,Activo,,,,,,,,,,,Granjas avicolas,2005,3
+granjas_peninsula.27,POINT (-89.47100799955014 20.757633999768647),Yucatán,Tecoh,Tecoh,Tablaje catastral No. 519 entrada a Tecoh.,Tecoh,X,,X,,100,236000,15,683213.592013,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,2
+granjas_peninsula.28,POINT (-89.46070699964513 20.82877900014387),Yucatán,Acanceh,Acanceh,Carretera Petectunich - Acanceh.,Petectunich,X,,X,,100,266635,30,604249.255368,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,2
+granjas_peninsula.29,POINT (-89.41874599983822 20.765967000249024),Yucatán,Acanceh,Acanceh,"No. catastral 407, hacienda Sac - chich.",San Antonio,X,,X,,100,87857,10,81530.180982,Si,Activo,,,,,,,,,,,Granjas avicolas,2005,3
+granjas_peninsula.30,POINT (-89.46493999955199 20.834057999931026),Yucatán,Acanceh,Acanceh,Carretera Petectunich - Acanceh.,San Gregorio,X,,X,,100,227937,27,236982.047036,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,2
+granjas_peninsula.31,POINT (-89.41618100036813 20.764906000049837),Yucatán,Acanceh,Acanceh,"No. catastral 407, hacienda Sac - chich.",Santa Cruz 1,X,,X,,100,41957,5,21595.025269,Si,Activo,,,,,,,,,,,Granjas avicolas,2005,3
+granjas_peninsula.32,POINT (-89.40838799988008 20.76491199988329),Yucatán,Acanceh,Acanceh,"No. catastral 407, hacienda Sac - chich.",Santa Cruz 2,X,,X,,100,66000,1,20134.448871,Si,Activo,,,,,,,,,,,Granjas avicolas,2005,3
+granjas_peninsula.33,POINT (-89.4312079999122 20.802635000445687),Yucatán,Acanceh,Acanceh,Km. 4 Acanceh - Cuzamá.,Acanceh,X,,X,,100,1235227,54,1522754.50161,Si,Activo,,,,,,,,,,,Granjas avicolas,2005,1
+granjas_peninsula.34,POINT (-89.29415000036462 20.90753300008342),Yucatán,Tahmek,Tahmek,Tablaje catastral No. 467.,Panabá 1,X,,X,,100,99000,10,84740.592868,Si,Activo,,,,,,,,,,,Granjas avicolas,2010,3
+granjas_peninsula.35,POINT (-89.30066700048563 20.904966999900367),Yucatán,Tahmek,Tahmek,Tablaje catastral No. 467.,Panabá 2,X,,X,,100,99000,10,89497.40682,Si,Activo,,,,,,,,,,,Granjas avicolas,2010,3
+granjas_peninsula.36,POINT (-89.3030670001343 20.91208300045915),Yucatán,Tahmek,Tahmek,Tablaje catastral No. 467.,Panabá 3,X,,X,,100,99000,10,74565.421309,Si,Activo,,,,,,,,,,,Granjas avicolas,2010,3
+granjas_peninsula.37,POINT (-89.29941700019738 20.911016999776646),Yucatán,Tahmek,Tahmek,Tablaje catastral No. 467.,Panabá 4,X,,X,,100,85000,8,58492.360488,Si,Activo,,,,,,,,,,,Granjas avicolas,2010,3
+granjas_peninsula.38,POINT (-89.30438299992115 20.90538300043343),Yucatán,Tahmek,Tahmek,Tablaje catastral No. 467.,Panabá 5,X,,X,,100,85000,8,64754.273778,Si,Activo,,,,,,,,,,,Granjas avicolas,2010,3
+granjas_peninsula.39,POINT (-89.51328999984337 20.822483999956354),Yucatán,Timucuy,Timucuy,Km. 3 carretera Timucuy - Subinkancab.,El Gran Tolete,X,,X,,100,36000,4,98764.058413,Si,Activo,,,,,,,,,,,Granjas avicolas,2010,3
+granjas_peninsula.40,POINT (-89.9535379996273 21.075535999784147),Yucatán,Hunucmá,Hunucmá,Carretera Hunucmá - Sisal.,Chencopo,X,,X,,100,145768,15,213376.182796,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,2
+granjas_peninsula.41,POINT (-89.89436700045779 21.028292999981712),Yucatán,Hunucmá,Hunucmá,Carretera Hunucmá - Sisal.,Concepciones,X,,X,,100,271162,30,670041.662663,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,2
+granjas_peninsula.42,POINT (-89.90986599968707 20.893612999693673),Yucatán,Samahil,Samahil,Carretera Samahil - Kinchil.,Chichen,X,,,,100,285438,6,63130.166582,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.43,POINT (-89.90364500028696 20.890186999676818),Yucatán,Samahil,Samahil,Carretera Samahil - Kinchil.,Mayapán,X,,,,100,229041,5,133710.574881,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.44,POINT (-89.90581400029534 20.890272000079253),Yucatán,Samahil,Samahil,Carretera Samahil - Kinchil.,Sayil,X,,,,100,234556,5,158857.109546,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.45,POINT (-89.90971799959506 20.89081199971337),Yucatán,Samahil,Samahil,Carretera Samahil - Kinchil.,Uxmal,X,,,,100,269813,6,61570.813667,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.46,POINT (-89.93515399991205 20.94814099954146),Yucatán,Tetiz,Tetiz,Carretera Tetiz - Kinchil.,Fátima,X,,X,,100,110566,12,97191.474622,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.47,POINT (-89.91352400039689 20.975185000252917),Yucatán,Tetiz,Tetiz,Carretera Hunucmá - Tetiz.,San Enrique,X,,X,,100,119015,12,115844.520722,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.48,POINT (-89.92301199970062 20.966885000112736),Yucatán,Tetiz,Tetiz,Conocido.,San Jorge,X,,X,,100,339732,36,461275.56413,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,2
+granjas_peninsula.49,POINT (-89.91985700031609 20.978888999684287),Yucatán,Tetiz,Tetiz,Carretera Hunucmá - Tetiz.,Tetiz postura,X,,X,,100,111109,12,115443.779277,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.50,POINT (-89.750000000153 21.035966999850498),Yucatán,Ucú,Ucú,km. 5 carretera Ucú - Hunucmá.,Guadalupe,X,,X,,100,42000,8,53321.644221,Si,Activo,,,,,,,,,,,Granjas avicolas,2005,3
+granjas_peninsula.51,POINT (-89.73115000043771 21.02836699975222),Yucatán,Ucú,Ucú,Carretera Caucel - Ucú km. 3.,Rubén,X,,X,,100,82000,12,39101.955723,Si,Activo,,,,,,,,,,,Granjas avicolas,2005,3
+granjas_peninsula.52,POINT (-89.88099999982109 21.03228300029187),Yucatán,Hunucmá,Hunucmá,"Tablaje No. 1,334.",San Eduardo 1,X,,X,,100,39000,3,24755.593866,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.53,POINT (-89.8857169996062 21.03290000020748),Yucatán,Hunucmá,Hunucmá,"Tablaje No. 1,334.",San Eduardo 2,X,,X,,100,39000,3,26189.568508,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.54,POINT (-89.8755830002031 21.005899999968882),Yucatán,Hunucmá,Hunucmá,Catastral No. 619-37-1318-48.,San Vicente 1,X,,X,,100,60000,4,40725.887905,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.55,POINT (-89.872099999611 21.006382999720266),Yucatán,Hunucmá,Hunucmá,Catastral No. 619-37-1318-48.,San Vicente 2,X,,X,,100,60000,4,55304.770108,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.56,POINT (-89.87369699965393 21.003215000305747),Yucatán,Hunucmá,Hunucmá,Catastral No. 619-37-1318-48.,San Vicente 3,X,,X,,100,54000,4,40161.370644,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.57,POINT (-89.88032099993573 21.00212899968734),Yucatán,Hunucmá,Hunucmá,Catastral No. 619-37-1318-48.,San Vicente 4,X,,X,,100,60000,4,38933.769623,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.58,POINT (-89.87634999976058 21.00016700029876),Yucatán,Hunucmá,Hunucmá,Catastral No. 619-37-1318-48.,San Vicente 5,X,,X,,100,53000,4,34207.057663,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.59,POINT (-89.87176500001642 20.99829900040086),Yucatán,Hunucmá,Hunucmá,Catastral No. 619-37-1318-48.,San Vicente 6,X,,X,,100,60000,4,41431.534476,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.60,POINT (-89.73165899968558 21.026027999951232),Yucatán,Ucú,Ucú,Tablaje Catastral No. 921.,Santa Teresa,X,,X,,100,150000,12,326569.453543,Si,Activo,,,,,,,,,,,Granjas avicolas,2005,3
+granjas_peninsula.61,POINT (-89.89006699958668 20.877050000055647),Yucatán,Samahil,Samahil,Carretera Samahil - Kuchel.,Rancho Alegre,X,,X,,100,274000,16,122005.03232,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,2
+granjas_peninsula.62,POINT (-90.06035000029323 20.525899999686988),Yucatán,Maxcanú,Maxcanú,Camino a Chanchocholá.,Halachó 1,X,,X,,100,150000,10,140383.765316,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.63,POINT (-90.0566120002644 20.525463999704588),Yucatán,Maxcanú,Maxcanú,Camino a Chanchocholá.,Halachó 2,X,,X,,100,135000,9,107639.104171,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.64,POINT (-90.05214999955379 20.525082999708093),Yucatán,Maxcanú,Maxcanú,Camino a Chanchocholá.,Halachó 3,X,,X,,100,120000,8,90431.968497,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.65,POINT (-89.40314099992015 21.073959999668073),Yucatán,Baca,Tixkuncheil,Conocido. (Hacienda Tixkuncheil),22 de Noviembre,X,,X,,100,246700,16,204589.622882,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,2
+granjas_peninsula.66,POINT (-89.40225899985803 21.07559400012115),Yucatán,Baca,Tixkuncheil,Conocido. (Hacienda Tixkuncheil),30 de Noviembre,X,,X,,100,27700,3,23827.3326,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.67,POINT (-89.38555700005651 21.10687600030177),Yucatán,Baca,Baca,"Tablaje No. 3,089, carretera Baca - Motul.",Baca 1,X,,X,,100,99000,6,67631.183649,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.242,POINT (-89.72449644103298 21.12084324724184),Yucatán,Mérida,,,,,,,,,,4,,,,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.68,POINT (-89.37763200006414 21.101622999586937),Yucatán,Baca,Baca,"Tablaje catastral No. 3,134.",Baca 2,X,,X,,100,99000,7,71146.81568,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.69,POINT (-89.3710579999394 21.106662999938905),Yucatán,Baca,Baca,"Tablaje No. 3,134, carretera Baca - Motul.",Baca 3,X,,X,,100,222000,14,57866.7992,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,2
+granjas_peninsula.70,POINT (-89.37496900023072 21.107064000340426),Yucatán,Baca,Baca,"Tablaje No. 3,089, carretera Baca - motul.",Baca 4,X,,X,,100,166200,10,59152.084027,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.71,POINT (-89.54069500015488 21.178118999702832),Yucatán,Chicxulub Pueblo,Chicxulub Pueblo,Km. 12 carretera Chixculub Pueblo.,Chicxulub,X,,X,,100,1244623,48,1759832.1487,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,1
+granjas_peninsula.72,POINT (-89.3483440001517 21.159299000377846),Yucatán,Motul,Sacapuc,Conocido. (Hacienda Sacapuc),Sacapuc,X,,X,,100,246600,16,104325.925494,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,2
+granjas_peninsula.73,POINT (-89.39064800030621 21.1913109997555),Yucatán,Motul,Timul,Conocido. (Hacienda Timul),Cubiche,X,,X,,100,248000,8,181777.077263,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,2
+granjas_peninsula.74,POINT (-89.38239099973248 21.001706000260086),Yucatán,Tixkokob,Tixkokob,Carretera Tixkokob - Tixpéual.,Tulum,X,,X,,100,370574,34,616668.950072,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,2
+granjas_peninsula.75,POINT (-89.42161700040506 21.03558399981452),Yucatán,Yaxkukul,Yaxkukul,Km. 4 carretera Nolo - Yaxkukul.,23 de Abril,X,,X,,100,268200,16,120121.207986,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,2
+granjas_peninsula.76,POINT (-89.64126944457111 20.857313889083184),Yucatán,Mérida,Motul,Carretera Conkal - Chablekal,San Manuel,X,,,,100,3000,1,389,Si,Activo,,,,,,,,,,,Granjas avicolas,2005,3
+granjas_peninsula.77,POINT (-89.47348299981448 21.111367000367515),Yucatán,Mocochá,Mocochá,Km. 19 carretera Mérida - Motul.,Mocochá,X,,X,,100,750000,12,2040880.79162,Si,Activo,,,,,,,,,,,Granjas avicolas,2015,3
+granjas_peninsula.78,POINT (-90.10771699959336 20.868716999620943),Yucatán,Kinchil,Kinchil,Km. 61 carretera Mérida - Celestún,Amaris 2,X,,,,100,300000,4,254677.928708,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.79,POINT (-89.82546699966862 20.764927000253156),Yucatán,Chocholá,Chocholá,"Carretera Mérida - Campeche, vÝa corta km. 15 tramo Umán - Chocholá.",Avemar,X,,X,,100,85300,10,214529.158893,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.80,POINT (-89.81751200015064 20.88659100016177),Yucatán,Umán,Umán,"Hacienda Oxolón, carretera Umán - Samahil.",Labná,X,,,,100,237018,5,44221.043584,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.81,POINT (-89.81822099982075 20.876093000304998),Yucatán,Umán,Umán,"Hacienda Oxolón, carretera Umán - Samahil.",Oxolón,X,,,,100,355981,10,119077.859122,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.82,POINT (-89.85454299977394 20.753354000051498),Yucatán,Chocholá,Chocholá,Km. 2.3 carretera Chochola - Hacienda Chable.,Chocholá 3,X,,X,,100,52020,5,131009.586618,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.83,POINT (-89.8571800002773 20.753605000422734),Yucatán,Chocholá,Chocholá,Km. 2.4 carretera Chochola - Hacienda Chable.,Chocholá 4,X,,X,,100,52504,5,81137.105038,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.84,POINT (-89.8204700000236 20.774114000287394),Yucatán,Chocholá,Chocholá,"Tablaje catastral 1,360 - 1,097, carretera Umán - Chocholá.",Chocholá 5,X,,X,,100,53334,6,58460.858407,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.85,POINT (-89.81968300017715 20.77564999982066),Yucatán,Chocholá,Chocholá,Carretera Umán - Chocholá.,Chocholá 6,X,,X,,100,88083,5,30045.98303,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.86,POINT (-89.81816700022111 20.775450000166195),Yucatán,Chocholá,Chocholá,Carretera Umán - Chocholá.,Chocholá 7,X,,X,,100,88000,5,32286.130882,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.87,POINT (-89.81592899980878 20.773997999607392),Yucatán,Chocholá,Chocholá,Carretera Umán - Chocholá.,Chocholá 8,X,,X,,100,87428,5,29989.979334,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.88,POINT (-89.52361699971354 20.941917000006214),Yucatán,Kanasin,KanasÝn,Km. 12.5 carretera Mérida - Chichen Itzá.,Teya 1,X,,X,,100,198000,12,87432.970564,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.89,POINT (-89.52688300030614 20.941549999942577),Yucatán,Kanasin,KanasÝn,Km. 12.5 carretera Mérida - Chichen Itzá.,Teya 2,X,,X,,100,198000,12,76805.709169,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.90,POINT (-89.52975000006451 20.941533000083332),Yucatán,Kanasin,KanasÝn,Km. 12.5 carretera Mérida - Chichen Itzá.,Teya 3,X,,X,,100,198000,12,92553.948546,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.91,POINT (-89.53231699954542 20.94215000031281),Yucatán,Kanasin,KanasÝn,Km. 12.5 carretera Mérida - Chichen Itzá.,Teya 4,X,,X,,100,198000,12,80699.08613,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.92,POINT (-89.52696399950514 20.950920000260176),Yucatán,Kanasin,KanasÝn,Km. 12.5 carretera Mérida - Chichen Itzá.,Teya 5,X,,X,,100,204600,12,3443.107244,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.93,POINT (-89.52684999977559 20.9508339996595),Yucatán,Kanasin,KanasÝn,Km. 12.5 carretera Mérida - Chichen Itzá.,Teya 6,X,,X,,100,198000,12,4151.554002,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.94,POINT (-89.82368399999787 20.768490000189665),Yucatán,Chocholá,Chocholá,"Tablaje catastral No. 1,237, carretera Umán a Chocholá.",Ramonal,X,,X,,100,52500,5,31012.606828,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.95,POINT (-89.81968099965037 20.77905299983689),Yucatán,Chocholá,Chocholá,Tablaje No. 900.,San Carlos,X,,X,,100,166000,8,78991.463425,Si,Activo,,,,,,,,,,,Granjas avicolas,2010,3
+granjas_peninsula.96,POINT (-89.74391700027766 20.851482999700405),Yucatán,Umán,Umán,"Carretera Mérida - Campeche, vÝa larga km. 3 Umán - Xtepen.",Santa Cecilia,X,,X,,100,85300,3,38910.10806,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.97,POINT (-89.76335300021107 20.85996500036401),Yucatán,Umán,Umán,"Km. 3 carretera Mérida - Campeche, tramo Umán - Poxilá.",Santa Fe,X,,X,,100,55400,2,17008.322548,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.98,POINT (-89.78405799970037 20.879381999528896),Yucatán,Umán,Umán,"Carretera Mérida - Celestún km. 3, tramo Umán - Samahil.",TÝo Enrique,X,,X,,100,48739,3,52302.971988,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.99,POINT (-89.71927799976844 20.76139799959887),Yucatán,Umán,Umán,Carretera Umán - Yaxcopoil.,Yaxcopoil,X,,X,,100,140000,8,540785.69178,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.100,POINT (-89.73308300006312 20.879993170958553),Yucatán,Umán,Umán,"Tablaje catastral No. 2,087.",Nidia Mireya,X,,X,,100,42431,18,31140.750282,Si,Activo,,,,,,,,,,,Granjas avicolas,2005,2
+granjas_peninsula.101,POINT (-89.75915099998659 20.864706999630304),Yucatán,Umán,Poxilá,"Carretera Mérida - Campeche, vÝa corta km. 2 tramo Umán - Poxilá.",Bachoco,X,,X,,100,47700,3,36809.304409,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.102,POINT (-89.70370199959102 20.85383799971357),Yucatán,Umán,Umán,Camino Hacienda Tebec,Santa Teresita,X,,,,100,18000,1,17357,Si,Activo,,,,,,,,,,,Granjas avicolas,2005,3
+granjas_peninsula.103,POINT (-89.81768299984111 20.883181000238242),Yucatán,Umán,Umán,"Hacienda Oxolón, carretera Umán - Samahil.",Kabah,X,,,,100,159495,5,37304,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.104,POINT (-89.55017299995407 20.94145999995372),Yucatán,Kanasin,KanasÝn,Km. 7 carretera Mérida - Valladolid,San Antonio,X,,,,100,7000,1,435,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.105,POINT (-89.64929599971715 20.81865400012319),Yucatán,Mérida,Umán,Km. 5 Carretera San Jose Tzal - Molas,San José la Esperanza,X,,X,,100,5500,3,3158,Si,Activo,,,,,,,,,,,Granjas avicolas,2010,3
+granjas_peninsula.106,POINT (-89.77636599967218 20.851129000338105),Yucatán,Umán,Umán,"Tablaje catastral No. 2,824.",El Esfuerzo,X,,X,,100,70452,2,40513.073858,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.107,POINT (-89.23061200027108 21.155533999865217),Yucatán,Motul,Motul,Calle 30 x 17 Tablaje Catastral 1508,San Pablo,X,,,,100,8000,48,168639,Si,Activo,,,,,,,,,,,Granjas avicolas,2015,1
+granjas_peninsula.108,POINT (-89.74370599969241 20.849638000276663),Yucatán,Umán,Umán,Km. 4.5 carretera Uman a X-tepen,Paraiso,,,X,,100,2000,1,875,Si,Activo,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.109,POINT (-90.38132399962547 19.923628000188355),Campeche,Campeche,Hampolol,A 150 metros a la izquierda del camino hacia la localidad de Bethania,Grupo Porcícola No. 1 Ejidal,,X,,,1300,12,3,15000,,Activo,,,X,25,48,35,50,4,162,Pyc,Granjas porcinas,2000,3
+granjas_peninsula.110,POINT (-90.40437800026152 19.921467000262822),Campeche,Campeche,San Francisco Kobén,A 700 metros a la izquierda saliendo para Hampolol de la Carretera Federal,Grupo Porcícola No. 2 Ejidal,,X,,,1300,18,4,27000,,Activo,,,X,40,110,30,50,7,237,Pyc,Granjas porcinas,2000,3
+granjas_peninsula.111,POINT (-90.41403700027983 19.76606999956846),Campeche,Campeche,San Antonio Bobolá,"Domicilio conocido, Ejido San Antonio Bobolá",Grupo Porcícola No. 3 Ejidal,,X,,,1300,16,3,10000,,Activo,,,X,24,48,72,57,3,204,Pyc,Granjas porcinas,2005,3
+granjas_peninsula.112,POINT (-90.50283299996677 19.77135500036843),Campeche,Campeche,Chiná,"Calle 11, Cementerio, Chiná",Instituto Tecnológico de Chiná,,X,,,650,25,5,10000,,Activo,,,X,12,9,120,20,2,163,Prize,Granjas porcinas,2005,3
+granjas_peninsula.113,POINT (-89.83040300022448 19.782598999860618),Campeche,Hopelchén,Hopelchén,Kilómetro 4.5 Carretera Antigua Hopelchén-Mérida,"GARY (Grupo Porcícola Mexicano, S.A de C.V.)",X,,,,23814,86,1,26350,,Activo,,X,,0,0,20500,0,0,20500,Pyc,Granjas porcinas,2000,3
+granjas_peninsula.114,POINT (-90.03780000023028 20.40767999976136),Campeche,Calkiní,Tepakán,"Kilómetro 108 Carretera Tepakán-Bécal, margen derecho",San Bernardo,,X,,,300,48,2,140000,,Activo,,,X,30,30,40,40,3,143,Pyc,Granjas porcinas,2005,3
+granjas_peninsula.115,POINT (-90.56536100039321 19.50011099974674),Campeche,Champotón,Sihochác,Carretera nacional Haltunchén - Edzna km. 15 s/n.,"Porcícola Sihochác No. 2, S.P.R. de R.L.",,X,,,500,85,3,8000,,Activo,,,X,117,94,88,68,9,376,Duroc - Camborough - Hampshire,Granjas porcinas,2005,3
+granjas_peninsula.116,POINT (-88.22114999962187 18.669510000230684),Quintana Roo,Othón P. Blanco,Luis Echeverr¡a,"A 1.5 km. hacia la zona noroeste de la localidad de Luis Echeverr¡a, camino a la Sabana.",Huerto las Mismas,,X,,,89,97,1,120,,Activo,X,,,30,35,15,2,4,86,Americana,Granjas porcinas,2010,3
+granjas_peninsula.117,POINT (-88.4087310000689 18.93554699958124),Quintana Roo,Bacalar,Mayabalam,Camino principal al poblado Mayabalam al oeste 600 m. de camino sacacosechas.,Nueva Generación 10 de Julio,,X,,,200,95,1,2000,,Activo,X,,,90,60,40,0,0,190,Americana,Granjas porcinas,2015,3
+granjas_peninsula.118,POINT (-88.40369700047123 18.932655999977037),Quintana Roo,Bacalar,Mayabalam,Carretera Caanlumil-Mayabalam 600 m. antes de llegar al poblado Mayabalam.,Granja Porcícola Nuevo Tikal,,X,,,5660,45,11,19200,,Activo,X,,,500,1500,300,250,10,2560,Americana,Granjas porcinas,2015,3
+granjas_peninsula.119,POINT (-88.39861399969337 18.930493999682593),Quintana Roo,Bacalar,Mayabalam,"Carretera Caanlumil,1 km. antes de llegar al poblado de Mayabalam.",El Jiménez,,X,,,100,86,1,140,,Activo,X,,,50,25,10,0,1,86,Americana,Granjas porcinas,2015,3
+granjas_peninsula.120,POINT (-88.39595000035094 18.929980999586025),Quintana Roo,Bacalar,Mayabalam,"Carretera Caanlumil,1.2 km. antes de llegar poblado Mayabalam.",La Bendición de Dios,,X,,,160,91,1,160,,Activo,,,X,54,30,35,25,1,145,Americana,Granjas porcinas,2015,3
+granjas_peninsula.121,POINT (-88.40241899970744 18.942797000146875),Quintana Roo,Bacalar,Mayabalam,De la salida del poblado de Mayabalam 100 m. rumbo a Kuchumat n.,San Juan,,X,,,120,85,1,180,,Activo,X,,,55,15,20,10,2,102,Americana,Granjas porcinas,2015,3
+granjas_peninsula.122,POINT (-88.39337800008371 18.933441999799207),Quintana Roo,Bacalar,Mayabalam,"Final del poblado Mayabalam al este, pasando la iglesia Evag‚lica El Buen Pastor 528 m. de terracer¡a.",La Nopalera,,X,,,160,76,1,170,,Activo,X,,,35,30,15,40,1,121,Americana,Granjas porcinas,2015,3
+granjas_peninsula.123,POINT (-88.39865599991248 18.92924199981344),Quintana Roo,Bacalar,Mayabalam,"1 km. antes de llegar al poblado Mayablam, sobre la carretera a Caanlumil.",Brillet,,X,,,882,40,1,2000,,Activo,X,,,70,200,50,30,2,352,Americana,Granjas porcinas,2015,3
+granjas_peninsula.124,POINT (-88.3940700002628 18.935311000295844),Quintana Roo,Bacalar,Mayabalam,"Final del poblado Mayabalam al este, pasando la iglesia Evang‚lica el Buen Pastor 300 m. de terracer¡a.",Díaz,,X,,,79,82,1,390,,Activo,X,,,45,19,0,0,1,65,Americana,Granjas porcinas,2015,3
+granjas_peninsula.125,POINT (-88.4027419998315 18.94340799955156),Quintana Roo,Bacalar,Mayabalam,Salida rumbo al poblado de Mayabalam 200 m. rumbo al poblado de Kuchumat n.,Las Mariposas,,X,,,120,86,1,260,,Activo,X,,,55,15,20,12,1,103,Americana,Granjas porcinas,2015,3
+granjas_peninsula.126,POINT (-88.3940700002628 18.935311000295844),Quintana Roo,Bacalar,Mayabalam,"Final del poblado Mayabalam al este, pasando la iglesia Evang‚lica el Buen Pastor 300 m. de terracer¡a.",Flor de Jabín,,X,,,180,59,1,200,,Activo,X,,,70,35,0,0,2,107,Americana,Granjas porcinas,2015,3
+granjas_peninsula.127,POINT (-88.3985389998287 18.933617000292582),Quintana Roo,Bacalar,Mayabalam,A 500 m. de la Telesecundaria hacia el sur.,Los Calmos,,X,,,130,70,1,220,,Activo,X,,,30,20,10,30,1,91,Americana,Granjas porcinas,2015,3
+granjas_peninsula.128,POINT (-88.39599700016312 18.928591999942302),Quintana Roo,Bacalar,Mayabalam,1.4 km. antes de llegar al poblado Mayabalm sobre la carretera Caanlumil.,El Porky,,X,,,150,81,1,180,,Activo,,,X,50,30,20,20,2,122,Americana,Granjas porcinas,2015,3
+granjas_peninsula.129,POINT (-88.40357799973981 18.932202999967103),Quintana Roo,Bacalar,Mayabalam,Carretera Caanlumil-Mayabalam 600 m. antes de llegar al poblado Mayabalam.,Sin nombre,,X,,,160,81,11,200,,Activo,X,,,58,40,24,5,2,129,Americana,Granjas porcinas,2015,3
+granjas_peninsula.130,POINT (-88.46601699987906 18.67381699992452),Quintana Roo,Bacalar,Salamanca,Campo 4 n£mero 7.,Sin nombre,,X,,,340,97,30,700,,Activo,,,X,12,13,198,105,2,330,Americana,Granjas porcinas,2015,3
+granjas_peninsula.131,POINT (-88.47258099966179 18.673756000320957),Quintana Roo,Bacalar,Salamanca,Campo 3 n£mero 1.,Sin nombre,,X,,,80,98,27,405,,Activo,,,X,50,24,0,0,4,78,Americana,Granjas porcinas,2015,2
+granjas_peninsula.132,POINT (-88.4789059997411 18.67814399980003),Quintana Roo,Bacalar,Salamanca,Campo 3 n£mero 6.,Sin nombre,,X,,,240,90,20,750,,Activo,,,X,52,26,75,60,3,216,Americana,Granjas porcinas,2015,3
+granjas_peninsula.133,POINT (-87.11216399989442 21.027172999572755),Quintana Roo,Puerto Morelos,Leona Vicario,"Carretera municipal Canc£n-Leona Vicario, km. 285 del lado izquierdo hacia adentro por camino blanco a 500 m.",Grupo Porcícola Mexicano,,,,,0,0,2,0,,Baja,,,,0,0,0,0,0,0,,Granjas porcinas,2000,3
+granjas_peninsula.134,POINT (-87.29086000014019 20.956609999617708),Quintana Roo,Puerto Morelos,Leona Vicario,"Carretera Federal 180 Costera del Golfo, tramo Leona Vicario-Nuevo Valladolid km. 8, a 7 m. de la carretera del lado derecho.",San Pedro,,X,,,111,92,1,10000,,Activo,,,X,30,20,20,30,2,102,Americana - Yorkshire,Granjas porcinas,2015,3
+granjas_peninsula.135,POINT (-89.23448799965462 21.00155200016975),Yucatán,Cacalchén,Cacalchén,Conocido (KM. 1 Cacalchen - Motul),San Manuel Catzin,X,,,,3500,69,10,31521,,Activo,X,0,,600,0,700,1100,0,2400,PIC,Granjas porcinas,2000,3
+granjas_peninsula.136,POINT (-89.2305980000151 20.996087999788436),Yucatán,Cacalchén,Cacalchén,"Conocido (carretera Cacalche - Motul, fte. COBAY)",San Felipe,X,,,,500,48,6,5524,,Activo,,0,X,60,0,70,110,0,240,,Granjas porcinas,2000,3
+granjas_peninsula.137,POINT (-89.32473299959676 20.877976000210193),Yucatán,Tahmek,Hoctún,"Conocido (carretera Mérida - Valladolid, comisaria Holactun)",Holactún,X,,,,1010,100,3,9397,,Activo,,0,X,250,0,300,450,10,1010,,Granjas porcinas,2005,3
+granjas_peninsula.138,POINT (-89.42308399957581 20.855856000290004),Yucatán,Acanceh,Acancéh,Conocido.,Canicab,X,,,,4000,100,5,12833,,Activo,,0,X,300,0,2000,2000,0,4000,PIC,Granjas porcinas,2005,3
+granjas_peninsula.139,POINT (-89.25561999994329 20.816539000045335),Yucatán,Hocabá,Hocabá,"Conocido (al lado cementerio Hocaba, Yucatán)",La Buena Fe,X,,,,3000,32,5,9452,,Activo,,0,X,240,0,310,410,4,964,Hibrida,Granjas porcinas,2005,3
+granjas_peninsula.140,POINT (-89.37878900029537 20.831058999879474),Yucatán,Seyé,Seyé,Conocido.,Alegre,X,,,,500,88,10,48240,,Activo,,0,X,120,0,120,200,0,440,Hibrida,Granjas porcinas,2005,3
+granjas_peninsula.141,POINT (-89.57851700016974 20.75856500025151),Yucatán,Timucuy,Tecoh,"Conocido (KM. 1 carretera Itzincab - Molas, Tecoh)",San Antonio,X,,,,4000,50,10,84830,,Activo,,0,X,500,0,600,900,2,2002,Pic,Granjas porcinas,2000,3
+granjas_peninsula.142,POINT (-89.39395299956112 20.69775100015189),Yucatán,Tecoh,Tecoh,Conocido (comisaria Chiquila ),San Antonio,X,,,,1000,34,1,7325,,Activo,,0,X,85,0,102,153,2,342,Pic,Granjas porcinas,2005,3
+granjas_peninsula.143,POINT (-89.30263699954467 20.740812999956454),Yucatán,Cuzama,Cuzama,"Conocido (T.C. 1555 S/N, carretera Cuzama - Homun)",Nokchacan 1-2,X,,,,728,100,3,8725,,Activo,,0,X,180,0,250,290,8,728,,Granjas porcinas,2005,3
+granjas_peninsula.144,POINT (-89.53618500039211 21.0774269997779),Yucatán,Conkal,Conkal,Conocido (KM 1 Conkal - Chablekal),Santa María Rosa,X,,,,3000,94,19,34996,,Activo,X,0,,700,0,2100,0,5,2805,Pic,Granjas porcinas,2000,2
+granjas_peninsula.145,POINT (-89.52055299999408 21.05614099982265),Yucatán,Conkal,Conkal,Conocido (KM. 7 carretera Mérida - Motul),Unión,X,,,,500,72,1,15538,,Activo,X,0,,90,0,120,150,1,361,Hibrida,Granjas porcinas,2000,3
+granjas_peninsula.146,POINT (-89.51980900030883 21.15117799961431),Yucatán,Chicxulub Pueblo,Chicxulub Pueblo,Conocido (KM. 5 Chicxulub - Puerto),California,X,,,,2000,44,5,35676,,Activo,,0,X,220,0,270,390,5,885,Hibrida,Granjas porcinas,2010,3
+granjas_peninsula.147,POINT (-89.52296000041525 21.142724000251828),Yucatán,Chicxulub Pueblo,Chicxulub Pueblo,Conocido (Chicxulub Pueblo),La Guadalupana,X,,,,700,92,6,15196,,Activo,,0,X,160,0,200,280,2,642,Hibrida,Granjas porcinas,2010,3
+granjas_peninsula.148,POINT (-89.39036399960337 21.19140599966149),Yucatán,Motul,Motul,"Conocido (Timul, Yucatán)",Multiplicadora,X,,,,2500,80,8,91819,,Activo,,0,X,500,0,610,890,10,2010,Genetic Pork - Pic,Granjas porcinas,2000,3
+granjas_peninsula.149,POINT (-89.32259899977079 21.05742099970933),Yucatán,Muxupip,Muxupip,Conocido (KM. 1 carretera Muxupip - Motul),San Antonio Pork,X,,,,1000,100,3,73950,,Activo,X,0,,900,0,91,0,9,1000,Pic,Granjas porcinas,2005,3
+granjas_peninsula.150,POINT (-89.39808199975356 21.01704000015146),Yucatán,Tixkokob,Tixkokob,"Conocido (C. 25 No. 92, Tixkokob, Yucatán)",El Rosario,X,,,,2000,60,4,28869,,Activo,X,0,,300,0,900,0,4,1204,Pic,Granjas porcinas,2000,3
+granjas_peninsula.151,POINT (-89.41703699983441 21.009257000353365),Yucatán,Tixkokob,Tixkokob,"Conocido (Nolo, Tixkokob, Yucatán)",San Pedro Nolo,X,,,,3000,67,4,9661,,Activo,X,0,,500,0,610,890,5,2005,Pic,Granjas porcinas,2000,3
+granjas_peninsula.152,POINT (-89.49955200044778 21.080392999862053),Yucatán,Conkal,Conkal,Conocido (KM. 1 carretera a Chablekal),I.T.A. 2,X,,,,250,65,4,3897,,Activo,,0,X,40,0,50,70,2,162,,Granjas porcinas,2010,3
+granjas_peninsula.153,POINT (-89.15092499966117 21.098955000296748),Yucatán,Suma,Motul,Conocido (carretera Motul - Telchac KM. 6),Kitan,X,,,,800,58,1,16540,,Activo,,0,X,90,0,370,0,5,465,,Granjas porcinas,2015,3
+granjas_peninsula.154,POINT (-89.27730599973063 21.153997999825897),Yucatán,Suma,Motul,Conocido (carretera Motul - Telchac KM. 5),Las Margaritas,X,,,,300,79,9,10137,,Activo,,0,X,25,0,100,110,2,237,,Granjas porcinas,2015,3
+granjas_peninsula.155,POINT (-89.39150600040794 21.18141000031688),Yucatán,Motul,Muxupip,"Conocido (C-31 S/N, al final de la calle, Muxupiup)",Cancanbchen,X,,,,300,61,6,10200,,Activo,X,0,,45,0,55,80,2,182,,Granjas porcinas,2000,3
+granjas_peninsula.156,POINT (-89.15514600025001 21.22874299983636),Yucatán,Motul,Sinanché,Conocido (carretera Sinanche - Yobain KM.2 margen izquierdo),San Francisco,X,,,,700,93,1,15235,,Activo,,0,X,63,0,210,375,3,651,,Granjas porcinas,2010,3
+granjas_peninsula.157,POINT (-89.25864100016213 21.202363999782527),Yucatán,Telchac Pueblo,Telchac Pueblo,"Conocido (carretera Telchac - Sinanche, KM. 1 margen izquierdo)",Buen aventura,X,,,,202,100,1,3132,,Activo,X,0,,50,0,60,90,2,202,,Granjas porcinas,2010,3
+granjas_peninsula.158,POINT (-89.74143100005533 20.577881000277547),Yucatán,Muna,Abalá,Conocido (KM 10 Abala),Picaras 1,X,,,,10000,63,14,198223,,Activo,X,0,,6300,0,0,0,0,6300,Pic,Granjas porcinas,2000,3
+granjas_peninsula.159,POINT (-89.72975900029911 20.575452999695507),Yucatán,Muna,Abalá,Conocido (KM 10 Abala),Picaras 2,X,,,,10000,63,14,166031,,Activo,X,0,,6300,0,0,0,0,6300,Pic,Granjas porcinas,2000,3
+granjas_peninsula.160,POINT (-89.74394200034465 20.587357999694643),Yucatán,Muna,Abalá,Conocido (KM 10 Abala),Picaras 3,X,,,,12000,53,12,204223,,Activo,X,0,,6300,0,0,0,0,6300,Pic,Granjas porcinas,2000,3
+granjas_peninsula.161,POINT (-89.75059999956495 20.588489000137525),Yucatán,Muna,Abalá,Conocido (KM 10 Abala),Picaras 4,X,,,,10000,63,14,113407,,Activo,X,0,,6300,0,0,0,0,6300,Pic,Granjas porcinas,2000,3
+granjas_peninsula.162,POINT (-89.52784999981405 20.905882999984875),Yucatán,Kanasín,Kanasín,Conocido (KM. 5 Kanasin - Acanceh),San José II,X,,,,1000,65,4,179110,,Activo,,0,X,160,0,200,280,7,647,Pic,Granjas porcinas,2000,3
+granjas_peninsula.163,POINT (-89.54066400008384 20.9673400001926),Yucatán,Kanasín,Kanasín,Conocido (KM. 4 carretera a Tixkokob),La Ponderosa,X,,,,2000,100,2,25436,,Activo,X,0,,500,0,600,894,6,2000,Pic,Granjas porcinas,2005,3
+granjas_peninsula.164,POINT (-89.65967899958322 20.776949999921893),Yucatán,Mérida,Mérida,Conocido.,San Antonio,X,,,,20000,55,12,109522,,Activo,,0,X,2100,0,4911,4000,30,11041,Línea Danesa,Granjas porcinas,2000,3
+granjas_peninsula.165,POINT (-89.69278300045721 21.06566699960036),Yucatán,Mérida,Mérida,Conocido.,San Gerardo,X,,,,15000,25,24,207276,,Activo,,0,X,670,0,1200,1870,14,3754,Línea Danesa,Granjas porcinas,2000,2
+granjas_peninsula.166,POINT (-89.47562999961109 21.029689999593206),Yucatán,Mérida,Mérida,Conocido (Santa María Chi),Santa María,X,,,,50000,31,76,696376,,Activo,,0,X,2950,0,4320,8260,18,15548,Línea Danesa,Granjas porcinas,2000,0
+granjas_peninsula.167,POINT (-89.65572999991558 20.787278999960098),Yucatán,Mérida,Mérida,Conocido.,San Francisco Texan,X,,,,10000,41,36,377692,,Activo,,0,X,1000,0,1430,1650,12,4092,Línea Danesa,Granjas porcinas,2000,3
+granjas_peninsula.168,POINT (-89.65131500034964 21.178896999894924),Yucatán,Progreso,Progreso,Conocido (KM. 23 carretera Mérida - Progreso),La Candelaria,X,,,,5000,60,3,144807,,Activo,,0,X,750,0,1000,1250,8,3008,Pic,Granjas porcinas,2000,3
+granjas_peninsula.169,POINT (-89.65486200035514 21.19909199981721),Yucatán,Progreso,Progreso,Conocido (KM. 2.5 carretera Progreso - Chicxulub,San Pedro,X,,,,4000,60,2,36103,,Activo,X,0,,600,0,1800,0,8,2408,Pic,Granjas porcinas,2000,3
+granjas_peninsula.170,POINT (-89.73976699976025 20.857174000296553),Yucatán,Umán,Umán,"Conocido (carretera antigua a Campeche, Chunchil, Uman)",San Mauro,X,,,,200,74,1,11372,,Activo,,0,X,70,0,75,0,4,149,Hibrida,Granjas porcinas,2005,3
+granjas_peninsula.171,POINT (-89.74228100032815 20.903813000278973),Yucatán,Umán,Umán,"Conocido (Carretera Uman - Oxolon, Uman, Yucatán)",Dogre,X,,,,700,41,5,14972,,Activo,,0,X,70,0,85,125,4,284,Hibrida,Granjas porcinas,2005,3
+granjas_peninsula.172,POINT (-89.53326399977513 20.929053999597695),Yucatán,Kanasín,Kanasín,"Conocido (carretera Mérida - Valladolid, Fte. Hacienda Teya)",Las Palomas,X,,,,600,41,4,18743,,Activo,,0,X,60,0,70,110,4,244,,Granjas porcinas,2005,3
+granjas_peninsula.173,POINT (-89.66485000039951 20.820572000169943),Yucatán,Mérida,San José T'zal,Conocido (C.25 No. 100 x 20 y 22 San José T'zal),María Asunción,X,,,,200,91,8,7640,,Activo,,0,X,45,0,54,81,2,182,,Granjas porcinas,2005,3
+granjas_peninsula.174,POINT (-89.62498899959928 20.866971999776585),Yucatán,Mérida,X'matkuil,Conocido (KM.5 carretera a X'matkuil),Facultad de Medicina Veterinaria UADY,X,,,,700,29,5,14055,,Activo,,0,X,50,0,60,90,3,203,,Granjas porcinas,2005,3
+granjas_peninsula.175,POINT (-89.65089999986475 21.174582999772042),Yucatán,Progreso,Progreso,Conocido (carretera Mérida - Progreso),San Isidro,X,,,,500,73,20,12320,,Activo,,0,X,90,0,108,162,5,365,,Granjas porcinas,2000,2
+granjas_peninsula.176,POINT (-89.79164899981134 20.87697700028465),Yucatán,Umán,Umán,Conocido (Carretera Uman - Samahil),Batzan,X,,,,1500,48,3,9875,,Activo,,0,X,180,0,200,340,8,728,,Granjas porcinas,2000,3
+granjas_peninsula.177,POINT (-89.73107600007837 20.875951999974287),Yucatán,Umán,Umán,"Conocido (Km. 2 carretera Uman - Tebec, Uman, Yucatán)",Tahonal,X,,,,700,69,1,14230,,Activo,,0,X,120,0,144,216,6,486,,Granjas porcinas,2005,3
+granjas_peninsula.178,POINT (-89.74487499965161 20.858697000389327),Yucatán,Umán,Chunchil,"Conocido (C. 100 Chunchil, Uman, Yucatán)",D'Carlos,X,,,,10000,76,5,55981,,Activo,X,0,,1900,0,2280,3420,20,7620,Pic,Granjas porcinas,2005,3
+granjas_peninsula.179,POINT (-89.9283330000499 21.052632999548493),Yucatán,Hunucmá,Hunucmá,Conocido (KM. 5 carretera Hunucma - Sisal),Chan Rancho,X,,,,5000,80,8,349483,,Activo,,0,X,1000,0,1200,1800,7,4007,France hibrid,Granjas porcinas,2000,3
+granjas_peninsula.180,POINT (-89.82931399997403 21.029496999998585),Yucatán,Hunucmá,Hunucmá,Conocido (KM. 19 carretera Mérida - Hunucma),Ana Cristina,X,,,,3000,100,8,60496,,Activo,X,0,,750,0,2250,0,0,3000,France hibrid,Granjas porcinas,2000,3
+granjas_peninsula.181,POINT (-89.9771240001307 20.907242000123706),Yucatán,Kinchil,Kinchil,"Conocido (Kinchil, Yucatán)",Kinchil 2,X,,,,6000,100,3,18570,,Activo,,0,X,6000,0,0,0,0,6000,,Granjas porcinas,2000,3
+granjas_peninsula.182,POINT (-90.08258299957421 20.488472000125313),Yucatán,Halacho,Halacho,"Conocido (Halacho, Yucatán)",San Martin,X,,,,200,65,1,8050,,Activo,X,0,,32,0,40,56,2,130,,Granjas porcinas,2005,3
+granjas_peninsula.183,POINT (-90.0137049997725 20.594333000407467),Yucatán,Maxcanú,Maxcanú,"Conocido (carretera Maxcanu - Paraiso, Margen derecho)",Lazaro Cardenas,X,,,,800,30,2,13650,,Activo,,0,X,60,0,75,105,3,243,,Granjas porcinas,2005,3
+granjas_peninsula.184,POINT (-89.98049599962532 20.905474000140774),Yucatán,Kinchil,Kinchil,Conocido (KM 3.9 Mama - Chapa),Kinchil 1,X,,,,6000,100,2,19764,,Activo,,0,X,6000,0,0,0,0,6000,,Granjas porcinas,2000,3
+granjas_peninsula.185,POINT (-89.70951500021134 20.55869700023962),Yucatán,Muna,Muna,"Conocido (KM. 55 carretera a Muna, Yucatán)",Mi Rancho,X,,,,24000,67,36,375568,,Activo,,0,X,4000,0,4800,7200,0,16000,Pic,Granjas porcinas,2000,3
+granjas_peninsula.186,POINT (-89.59911899974514 20.230451999799506),Yucatán,Santa Elena,Santa Elena,Conocido.,Santa Ana,X,,,,1450,100,30,185567,,Activo,X,0,,1450,0,0,0,0,1450,Pic,Granjas porcinas,2005,2
+granjas_peninsula.187,POINT (-89.30236499986972 20.448154999620325),Yucatán,Chumayel,Chumayel,Conocido (KM 0.2 Chumayel - Mama),Traviesas 1.1,X,,,,4000,44,6,55367,,Activo,X,0,,1750,0,0,0,0,1750,Pic,Granjas porcinas,2000,3
+granjas_peninsula.188,POINT (-89.45343899973804 20.38831400029278),Yucatán,Dzan,Dzan,Conocido (KM.2 Dzan - Mani),Santa Clara 1,X,,,,2500,96,3,29226,,Activo,X,0,,600,0,1800,0,4,2404,Hibrida,Granjas porcinas,2005,3
+granjas_peninsula.189,POINT (-89.52649399968232 20.385810999624457),Yucatán,Ticul,Ticul,"Conocido (Ticul, Yucatán)",San Dimas,X,,,,600,74,4,20304,,Activo,,0,X,110,0,132,198,4,444,Hibrida,Granjas porcinas,2005,3
+granjas_peninsula.190,POINT (-89.01004899971622 20.02895999981325),Yucatán,Tzucacab,Tzucacab,Conocido.,Tehelil,X,,,,3000,38,1,8750,,Activo,,0,X,120,0,400,600,6,1126,,Granjas porcinas,2005,3
+granjas_peninsula.191,POINT (-88.17427100012942 21.263182999557092),Yucatán,Tizimín,Tizimín,Conocido (KM. 15 carretera Tizimin - Rio Lagartos),El Parral,X,,,,3000,67,25,10448,,Activo,,0,X,500,0,600,900,8,2008,Yorkshire,Granjas porcinas,2005,2
+granjas_peninsula.192,POINT (-88.2750210002487 21.1380799999105),Yucatán,Sucilá,Sucilá,Conocido (carretera Mérida - Tizimin KM. 145.),San Carlos,X,,,,1200,67,1,31266,,Activo,,0,X,200,0,240,360,8,808,Yorkshire,Granjas porcinas,2005,3
+granjas_peninsula.193,POINT (-88.04568600039299 20.77385599965594),Yucatán,Valladolid,Valladolid,"Conocido (KM. 7 a Yalkoba, Valladolid, Yucatán)",Porcicultura Mexicana,X,,,,1700,43,1,37903,,Activo,,0,X,180,0,216,324,10,730,Hibrida,Granjas porcinas,2005,3
+granjas_peninsula.194,POINT (-89.1668130003559 20.432060999722296),Yucatán,Cantamayec,Cantamayec,Conocido (KM 16 Teabo - Cholul),Mayapan,X,,,,6000,100,28,285892,,Activo,X,0,,6000,0,0,0,0,6000,Pic,Granjas porcinas,2000,3
+granjas_peninsula.195,POINT (-88.96177200012528 20.5627219997936),Yucatán,Sotuta,Sotuta,Conocido (KM 5.5 Sotuta - Yaxcaba),Picaras 5,X,,,,6000,100,28,766917,,Activo,X,0,,6000,0,0,0,0,6000,Pic,Granjas porcinas,2000,3
+granjas_peninsula.196,POINT (-88.9447689996283 20.56305399962819),Yucatán,Sotuta,Sotuta,Conocido (KM 5.5 Sotuta - Yaxcaba),Picaras 6,X,,,,6000,100,28,357133,,Activo,,0,,6000,0,0,0,0,6000,Pic,Granjas porcinas,2000,3
+granjas_peninsula.197,POINT (-89.89725732648903 20.919805381196415),Yucatán,Samahil,,,,,,,,,,12,,,,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.198,POINT (-89.94032508429048 21.036253881073193),Yucatán,Hunucmá,,,,,,,,,,11,,,,,,,,,,,,,,Granjas porcinas,2000,3
+granjas_peninsula.199,POINT (-89.94210672582244 21.085365325315866),Yucatán,Hunucmá,,,,,,,,,,1,,,,,,,,,,,,,,Granjas avicolas,2015,3
+granjas_peninsula.200,POINT (-89.96160770569243 20.912049572275546),Yucatán,Kinchil,,,,,,,,,,12,,,,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.201,POINT (-89.5289172667827 21.023796863978724),Yucatán,Mérida,,,,,,,,,,18,,,,,,,,,,,,,,Granjas avicolas,2005,2
+granjas_peninsula.202,POINT (-89.60529473081401 20.66255607909465),Yucatán,Abalá,,,,,,,,,,6,,,,,,,,,,,,,,Granjas porcinas,2000,3
+granjas_peninsula.203,POINT (-89.62021542917692 20.686393141024787),Yucatán,Abalá,,,,,,,,,,5,,,,,,,,,,,,,,Granjas porcinas,2000,3
+granjas_peninsula.204,POINT (-89.63731792777216 20.685866395569377),Yucatán,Abalá,,,,,,,,,,6,,,,,,,,,,,,,,Granjas porcinas,2000,3
+granjas_peninsula.205,POINT (-89.67782199337526 20.67793207097268),Yucatán,Abalá,,,,,,,,,,6,,,,,,,,,,,,,,Granjas porcinas,2000,3
+granjas_peninsula.206,POINT (-89.67074873778341 20.69472206045622),Yucatán,Abalá,,,,,,,,,,6,,,,,,,,,,,,,,Granjas porcinas,2000,3
+granjas_peninsula.207,POINT (-89.693798401528 20.69409658436485),Yucatán,Abalá,,,,,,,,,,6,,,,,,,,,,,,,,Granjas porcinas,2000,3
+granjas_peninsula.208,POINT (-89.84800307068156 20.752882935830332),Yucatán,Chocholá,,,,,,,,,,12,,,,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.209,POINT (-89.81761556471183 20.752123189005992),Yucatán,Chocholá,,,,,,,,,,3,,,,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.210,POINT (-89.99002380899742 20.90090687133614),Yucatán,Kinchil,,,,,,,,,,5,,,,,,,,,,,,,,Granjas porcinas,2000,3
+granjas_peninsula.211,POINT (-89.98428987504639 20.903671853328532),Yucatán,Kinchil,,,,,,,,,,5,,,,,,,,,,,,,,Granjas porcinas,2000,3
+granjas_peninsula.212,POINT (-89.21215720266302 20.82367950551373),Yucatán,Hocabá,,,,,,,,,,2,,,,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.213,POINT (-89.22194011338212 20.823087454591764),Yucatán,Hocabá,,,,,,,,,,8,,,,,,,,,,,,,,Granjas porcinas,2000,3
+granjas_peninsula.214,POINT (-89.44646319293415 20.827248207618197),Yucatán,Acanceh,,,,,,,,,,28,,,,,,,,,,,,,,Granjas avicolas,2000,2
+granjas_peninsula.215,POINT (-89.51604326566613 20.81981468668377),Yucatán,Timucuy,,,,,,,,,,4,,,,,,,,,,,,,,Granjas avicolas,2005,3
+granjas_peninsula.216,POINT (-89.47252880770692 21.087852640780937),Yucatán,Conkal,,,,,,,,,,6,,,,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.217,POINT (-89.47597703682658 21.09273922234244),Yucatán,Conkal,,,,,,,,,,5,,,,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.218,POINT (-89.47112281410884 21.11609688072711),Yucatán,Mocochá,,,,,,,,,,15,,,,,,,,,,,,,,Granjas avicolas,2010,2
+granjas_peninsula.219,POINT (-89.47935735046954 21.119182622255252),Yucatán,Mocochá,,,,,,,,,,12,,,,,,,,,,,,,,Granjas avicolas,2005,3
+granjas_peninsula.220,POINT (-89.47738669219517 21.11104137824472),Yucatán,Mocochá,,,,,,,,,,15,,,,,,,,,,,,,,Granjas avicolas,2010,2
+granjas_peninsula.221,POINT (-89.39767120799381 21.08511773731016),Yucatán,Baca,,,,,,,,,,5,,,,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.222,POINT (-89.39768840909832 21.08676593995601),Yucatán,Baca,,,,,,,,,,5,,,,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.223,POINT (-89.39778274855627 21.08943752098534),Yucatán,Baca,,,,,,,,,,6,,,,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.224,POINT (-89.26974718777872 20.871684169980906),Yucatán,Tahmek,,,,,,,,,,4,,,,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.225,POINT (-89.23734841451997 20.86807765157809),Yucatán,Hoctún,,,,,,,,,,8,,,,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.226,POINT (-89.35714337952898 20.47353758393563),Yucatán,Mama,,,,,,,,,,10,,,,,,,,,,,,,,Granjas porcinas,2000,3
+granjas_peninsula.227,POINT (-89.3112156344189 20.72370514449077),Yucatán,Cuzama,,,,,,,,,,8,,,,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.228,POINT (-89.69319684074098 21.096909209591725),Yucatán,Mérida,,,,,,,,,,15,,,,,,,,,,,,,,Granjas avicolas,2000,2
+granjas_peninsula.229,POINT (-89.4208793062614 20.941904513845863),Yucatán,Tixpéhual,,,,,,,,,,8,,,,,,,,,,,,,,Granjas porcinas,2000,3
+granjas_peninsula.230,POINT (-89.91282367118154 20.885668017401866),Yucatán,Samahil,,,,,,,,,,3,,,,,,,,,,,,,,Granjas avicolas,2015,3
+granjas_peninsula.231,POINT (-89.90825131122031 20.885926921846075),Yucatán,Samahil,,,,,,,,,,6,,,,,,,,,,,,,,Granjas avicolas,2015,3
+granjas_peninsula.232,POINT (-89.78115621489003 20.879030306692673),Yucatán,Umán,,,,,,,,,,4,,,,,,,,,,,,,,Granjas porcinas,2000,3
+granjas_peninsula.233,POINT (-89.79214107947745 20.8790010742276),Yucatán,Umán,,,,,,,,,,3,,,,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.234,POINT (-90.3687107520445 19.724721901411243),Campeche,Campeche,,,,,,,,,,3,,,,,,,,,,,,,,Granjas avicolas,2005,3
+granjas_peninsula.235,POINT (-90.37606103290749 19.70461005304078),Campeche,Campeche,,,,,,,,,,5,,,,,,,,,,,,,,Granjas avicolas,2010,3
+granjas_peninsula.236,POINT (-90.44425061748704 19.63116876383023),Campeche,Campeche,,,,,,,,,,5,,,,,,,,,,,,,,Granjas avicolas,2015,3
+granjas_peninsula.237,POINT (-89.35295171774048 20.59421616444573),Yucatán,Tekit,,,,,,,,,,8,,,,,,,,,,,,,,Granjas avicolas,2005,3
+granjas_peninsula.238,POINT (-90.08392670789699 20.876471382710726),Yucatán,Kinchil,,,,,,,,,,3,,,,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.239,POINT (-90.13674510187947 20.826403226541245),Yucatán,Maxcanú,,,,,,,,,,8,,,,,,,,,,,,,,Granjas avicolas,2015,3
+granjas_peninsula.240,POINT (-89.70133907714586 21.115789804756833),Yucatán,Mérida,,,,,,,,,,4,,,,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.241,POINT (-89.70502996804818 21.112013493603797),Yucatán,Mérida,,,,,,,,,,4,,,,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.243,POINT (-89.73675972370843 21.12434168349448),Yucatán,Mérida,,,,,,,,,,4,,,,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.244,POINT (-89.50659082398431 20.834978227071165),Yucatán,Acanceh,,,,,,,,,,8,,,,,,,,,,,,,,Granjas porcinas,2000,3
+granjas_peninsula.245,POINT (-87.57185590805373 20.877821246552728),Quintana Roo,Lázaro Cárdenas,,,,,,,,,,10,,,,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.246,POINT (-89.29482403432097 20.87204357835397),Yucatán,Tahmek,,,,,,,,,,8,,,,,,,,,,,,,,Granjas porcinas,2000,3
+granjas_peninsula.247,POINT (-89.77541784589924 20.57325254366042),Yucatán,Opichén,,,,,,,,,,40,,,,,,,,,,,,,,Granjas porcinas,2000,1
+granjas_peninsula.248,POINT (-89.83113010752758 20.537447460189266),Yucatán,Opichén,,,,,,,,,,40,,,,,,,,,,,,,,Granjas porcinas,2000,1
+granjas_peninsula.249,POINT (-89.602898443108 20.47567222685666),Yucatán,Sacalum,,,,,,,,,,18,,,,,,,,,,,,,,Granjas porcinas,2000,2
+granjas_peninsula.250,POINT (-89.6733990332035 20.500876085438186),Yucatán,Muna,,,,,,,,,,21,,,,,,,,,,,,,,Granjas porcinas,2005,2
+granjas_peninsula.251,POINT (-89.70937117532632 20.68044860785993),Yucatán,Abalá,,,,,,,,,,9,,,,,,,,,,,,,,Granjas porcinas,2010,3
+granjas_peninsula.252,POINT (-89.82199685126045 20.747975934285815),Yucatán,Chocholá,,,,,,,,,,5,,,,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.253,POINT (-89.89250953584055 20.899422634950557),Yucatán,Samahil,,,,,,,,,,24,,,,,,,,,,,,,,Granjas avicolas,2000,2
+granjas_peninsula.254,POINT (-89.94164751692493 20.951915532932606),Yucatán,Tetiz,,,,,,,,,,16,,,,,,,,,,,,,,Granjas avicolas,2000,2
+granjas_peninsula.255,POINT (-89.952037860505 20.972710183821594),Yucatán,Tetiz,,,,,,,,,,24,,,,,,,,,,,,,,Granjas avicolas,2000,2
+granjas_peninsula.256,POINT (-89.9489657929759 20.968752739223355),Yucatán,Tetiz,,,,,,,,,,12,,,,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.257,POINT (-89.95847150978057 20.96801680818243),Yucatán,Tetiz,,,,,,,,,,6,,,,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.258,POINT (-89.90155440743203 21.05877806529315),Yucatán,Hunucmá,,,,,,,,,,48,,,,,,,,,,,,,,Granjas avicolas,2000,1
+granjas_peninsula.259,POINT (-89.69495923722556 21.099013323409235),Yucatán,Mérida,,,,,,,,,,20,,,,,,,,,,,,,,Granjas avicolas,2000,2
+granjas_peninsula.260,POINT (-89.48090285002752 20.892454637203056),Yucatán,Acanceh,,,,,,,,,,11,,,,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.261,POINT (-87.5517279354061 20.8781616230153),Quintana Roo,Lázaro Cárdenas,,,,,,,,,,15,,,,,,,,,,,,,,Granjas avicolas,2000,2
+granjas_peninsula.262,POINT (-88.97528107730443 20.394608750270987),Yucatán,Cantamayec,,,,,,,,,,40,,,,,,,,,,,,,,Granjas avicolas,2000,1
+granjas_peninsula.263,POINT (-88.97635967366402 20.409027239353748),Yucatán,Cantamayec,,,,,,,,,,40,,,,,,,,,,,,,,Granjas avicolas,2000,1
+granjas_peninsula.264,POINT (-87.49439659601836 20.887772325341107),Quintana Roo,Lázaro Cárdenas,,,,,,,,,,15,,,,,,,,,,,,,,Granjas avicolas,2000,2
+granjas_peninsula.265,POINT (-89.20043733949244 20.887935449516622),Yucatán,Hoctún,,,,,,,,,,40,,,,,,,,,,,,,,Granjas avicolas,2000,1
+granjas_peninsula.266,POINT (-89.6958485009852 20.95611114845137),Yucatán,Mérida,,,,,,,,,,4,,,,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.267,POINT (-88.49305135960027 18.68075456114566),Quintana Roo,Bacalar,,,,,,,,,,15,,,,,,,,,,,,,,Granjas porcinas,2015,2
+granjas_peninsula.268,POINT (-88.48741018765348 18.69790615524254),Quintana Roo,Bacalar,,,,,,,,,,45,,,,,,,,,,,,,,Granjas porcinas,2015,1
+granjas_peninsula.269,POINT (-88.49252818639553 18.673255580032038),Quintana Roo,Bacalar,,,,,,,,,,24,,,,,,,,,,,,,,Granjas porcinas,2015,2
+granjas_peninsula.270,POINT (-88.49625863881195 18.662265094659396),Quintana Roo,Bacalar,,,,,,,,,,14,,,,,,,,,,,,,,Granjas porcinas,2015,2
+granjas_peninsula.271,POINT (-88.50995212877959 18.658170418030455),Quintana Roo,Bacalar,,,,,,,,,,40,,,,,,,,,,,,,,Granjas porcinas,2015,1
+granjas_peninsula.272,POINT (-89.54283915437647 20.439747052675564),Yucatán,Ticul,,,,,,,,,,7,,,,,,,,,,,,,,Granjas porcinas,2015,3
+granjas_peninsula.273,POINT (-89.16418542123827 20.14786276732944),Yucatán,Tekax,,,,,,,,,,7,,,,,,,,,,,,,,Granjas avicolas,2017,3
+granjas_peninsula.274,POINT (-89.17789510080476 20.14471655450372),Yucatán,Tekax,,,,,,,,,,7,,,,,,,,,,,,,,Granjas avicolas,2017,3
+granjas_peninsula.275,POINT (-89.18011911549002 20.13819511156202),Yucatán,Tekax,,,,,,,,,,7,,,,,,,,,,,,,,Granjas avicolas,2017,3
+granjas_peninsula.276,POINT (-89.81946240558563 20.74607922526781),Yucatán,Chocholá,,,,,,,,,,5,,,,,,,,,,,,,,Granjas avicolas,2000,3
+granjas_peninsula.277,POINT (-89.43550759634816 21.02364139901595),Yucatán,Tixkokob,,,,,,,,,,7,,,,,,,,,,,,,,Granjas porcinas,2000,3
+granjas_peninsula.278,POINT (-89.29514332705297 21.029222234667234),Yucatán,Muxupip,,,,,,,,,,8,,,,,,,,,,,,,,Granjas porcinas,2000,3
+granjas_peninsula.279,POINT (-89.20465944191399 20.91534612801285),Yucatán,Hoctún,,,,,,,,,,8,,,,,,,,,,,,,,Granjas porcinas,2000,3
+granjas_peninsula.280,POINT (-89.22123292121216 20.939875363846102),Yucatán,Cacalchén,,,,,,,,,,8,,,,,,,,,,,,,,Granjas porcinas,2000,3
+granjas_peninsula.281,POINT (-89.21641930038659 20.95626389019381),Yucatán,Cacalchén,,,,,,,,,,8,,,,,,,,,,,,,,Granjas porcinas,2000,3
+granjas_peninsula.282,POINT (-89.1903709092102 20.846232934954582),Yucatán,Xocchel,,,,,,,,,,18,,,,,,,,,,,,,,Granjas avicolas,2000,2
+granjas_peninsula.283,POINT (-89.01357697471131 21.026172351650516),Yucatán,Tepakán,,,,,,,,,,8,,,,,,,,,,,,,,Granjas porcinas,2000,3
+granjas_peninsula.284,POINT (-89.068293829159 21.012692401111963),Yucatán,Tekantó,,,,,,,,,,8,,,,,,,,,,,,,,Granjas porcinas,2000,3
+granjas_peninsula.285,POINT (-89.90434055507946 20.599189309497106),Yucatán,Opichén,,,,,,,,,,8,,,,,,,,,,,,,,Granjas porcinas,2015,3
+granjas_peninsula.286,POINT (-88.93219302945617 20.944648981734538),Yucatán,Izamal,,,,,,,,,,6,,,,,,,,,,,,,,Granjas porcinas,2015,3
+granjas_peninsula.287,POINT (-88.93501444410828 20.873047903824865),Yucatán,Sudzal,,,,,,,,,,9,,,,,,,,,,,,,,Granjas porcinas,2015,3
+granjas_peninsula.288,POINT (-89.03588001792134 20.811522790870026),Yucatán,Kantunil,,,,,,,,,,12,,,,,,,,,,,,,,Granjas porcinas,2015,3

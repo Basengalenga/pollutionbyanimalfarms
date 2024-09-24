@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=http://132.248.14.102/layers/CapaBase:granjas_peninsula
+HostUrl=http://132.248.14.102/geoserver/wfs?typename=CapaBase%3Agranjas_peninsula&outputFormat=csv&version=1.0.0&request=GetFeature&service=WFS
