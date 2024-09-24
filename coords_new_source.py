@@ -1,31 +1,31 @@
 import csv
-def readFile(source):
+
+def readFile(source):                                                           #Source es la ubicacion del archivo en el sistema
     with open(source, mode='r', encoding='ISO-8859-1') as file:
         data = list(csv.reader(file, delimiter=","))
         return data
     
-def yucatanización(data):
+def yucatanización(data):                                       #Filtra los datos de Yucatán
     yucatanData = []
     for row in data:
-        if "Yuc" in row[2]:
+        if "Yuc" in row[2]:                                    #row[2] indica el estado
             yucatanData.append(row)
     return yucatanData
 
 def pollificación(data):
     chickenData = []
     for row in data:
-        if "colas" in row[-3]:
+        if "colas" in row[-3]:                                 #row[-3] indica el tipo de granja, colas es de avícolas, lo modifiqué por el acento
             chickenData.append(row)
     return chickenData
 
 def cerdificación(data):
     porkData = []
     for row in data:
-        if "porcinas" in row[-3]:
+        if "porcinas" in row[-3]:                               #row[-3] indica el tipo de granja
             porkData.append(row)
     return porkData
 
-    
 def getCoords(data):
         latitud = ["latitud"]
         longitud = ["longitud"]
@@ -34,7 +34,7 @@ def getCoords(data):
             spaceCounter = 0
             latitudIndividual = ""
             longitudIndividual = ""
-            for letter in row[1]:
+            for letter in row[1]:                             #row[1] ahí se ubican las coordenadas
                 if letter == " ":
                     spaceCounter += 1
                 if spaceCounter < 2:
