@@ -1,22 +1,41 @@
 import csv
-def getHeaders(source):
+def readFile(source):
     with open(source, mode='r', encoding='ISO-8859-1') as file:
-        data = csv.reader(file, delimiter=",")
-        return next(data)
+        data = list(csv.reader(file, delimiter=","))
+        return data
     
+def yucatanización(data):
+    yucatanData = []
+    for row in data:
+        if "Yuc" in row[2]:
+            yucatanData.append(row)
+    return yucatanData
 
-def getCoords(source):
-    with open(source, mode='r', encoding='ISO-8859-1') as file:
-        data = csv.reader(file, delimiter=",")
+def pollificación(data):
+    chickenData = []
+    for row in data:
+        if "colas" in row[-3]:
+            chickenData.append(row)
+    return chickenData
+
+def cerdificación(data):
+    porkData = []
+    for row in data:
+        if "porcinas" in row[-3]:
+            porkData.append(row)
+    return porkData
+
+    
+def getCoords(data):
         latitud = ["latitud"]
         longitud = ["longitud"]
-        next(data)
+
         for row in data:
             spaceCounter = 0
             latitudIndividual = ""
             longitudIndividual = ""
             for letter in row[1]:
-                if letter is " ":
+                if letter == " ":
                     spaceCounter += 1
                 if spaceCounter < 2:
                     if letter in "-1234567890.":
@@ -27,6 +46,7 @@ def getCoords(source):
             latitud.append(latitudIndividual)
             longitud.append(longitudIndividual)
         return latitud, longitud
+
     
 def writeCoords(source, latitud, longitud):
     coords = [(lat, lon) for lat, lon in zip(latitud, longitud)]
@@ -35,22 +55,27 @@ def writeCoords(source, latitud, longitud):
         writer.writerows(coords)
     print(f"Archivo en {source} creado con éxito")
 
+#Getting data
 
-headers = getHeaders('data/granjas_peninsula.csv')
-print(headers)
+generalData = readFile('data/granjas_peninsula.csv')
 
+yucatanData = yucatanización(generalData)
 
+yucatanPorkData = cerdificación(yucatanData)
 
-latitud, longitud = getCoords('data/granjas_peninsula.csv')
-
-
-
-print(latitud, longitud)
-
-coords = [(lat, lon) for lat, lon in zip(latitud, longitud)]
+yucatanChickenData = pollificación(yucatanData)
 
 
-print(coords)
+#Getting coords
 
+yucatanLatitud, yucatanLongitud = getCoords(yucatanData)
 
-writeCoords('data/coordsgeneral.csv', latitud, longitud)
+yucatanChickenLatitud, yucatanChickenLongitud = getCoords(yucatanChickenData)
+
+yucatanPorkLatitud, yucatanPorkLongitud = getCoords(yucatanPorkData)
+
+#writing on csv's
+
+writeCoords('data/coordsyucatan.csv', yucatanLatitud, yucatanLongitud)
+writeCoords('data/yucatanPorkCoords.csv', yucatanPorkLatitud, yucatanPorkLongitud)
+writeCoords('data/yucatanChickenCoords.csv', yucatanChickenLatitud, yucatanChickenLongitud)
