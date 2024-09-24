@@ -3,6 +3,7 @@ def getHeaders(source):
     with open(source, mode='r', encoding='ISO-8859-1') as file:
         data = csv.reader(file, delimiter=",")
         return next(data)
+    
 
 def getCoords(source):
     with open(source, mode='r', encoding='ISO-8859-1') as file:
@@ -11,13 +12,13 @@ def getCoords(source):
         longitud = ["longitud"]
         next(data)
         for row in data:
-            space = 0
+            spaceCounter = 0
             latitudIndividual = ""
             longitudIndividual = ""
             for letter in row[1]:
                 if letter is " ":
-                    space += 1
-                if space < 2:
+                    spaceCounter += 1
+                if spaceCounter < 2:
                     if letter in "-1234567890.":
                         longitudIndividual += letter
                 else:
@@ -37,9 +38,19 @@ def writeCoords(source, latitud, longitud):
 
 headers = getHeaders('data/granjas_peninsula.csv')
 print(headers)
-latitud, longitud = getCoords('data/granjas_peninsula.csv')
-print(latitud, longitud)
-coords = [(lat, lon) for lat, lon in zip(latitud, longitud)]
-print(coords)
-writeCoords('data/coords.csv', latitud, longitud)
 
+
+
+latitud, longitud = getCoords('data/granjas_peninsula.csv')
+
+
+
+print(latitud, longitud)
+
+coords = [(lat, lon) for lat, lon in zip(latitud, longitud)]
+
+
+print(coords)
+
+
+writeCoords('data/coordsgeneral.csv', latitud, longitud)
