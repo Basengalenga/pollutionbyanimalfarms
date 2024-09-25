@@ -1,0 +1,433 @@
+<?xml version = "1.0" encoding = "ISO-8859-1"?>
+<Metadata>
+<MD_DataIdentification>
+<title>Conjunto de datos de la Caracterización Morfológica de Cenotes y Datos Fisicoquímicos del Agua Subterránea en la Península de Yucatán</title>
+<purpose>La Península de Yucatán alberga el acuífero en ambiente cárstico más importante del país; por su naturaleza geológica, es también el de mayor vulnerabilidad ante contaminación antropogénica, así como a los efectos del cambio climático, principalmente por el ascenso del nivel del mar y modificación del régimen de lluvias.
+El INEGI pone a disposición de los usuarios el primer conjunto de datos obtenido en cenotes, con el objetivo de evaluar cambios en la química del agua del acuífero, que integra fotografías, descripción morfológica de los cenotes, contexto geográfico y resultados de análisis físicos y químicos realizados en muestras de agua, colectadas en superficie y a profundidad.</purpose>
+<abstract>Conjunto de datos vectoriales que registra las concentraciones de cationes, aniones y metales, datos del medio geográfico que describen el contexto de cada sitio, entre otros: ubicación, coordenadas, nombre del cenote, altitud, localidad, clima, geología, fisiografía, uso de suelo y vegetación, clasificación del cenote, dimensiones estimadas, estructuras geológicas identificadas, parámetros físicos y químicos del agua obtenidos en campo, así como gráficos de relación profundidad-temperatura, profundidad-salinidad y fotografías que captan el entorno del sitio.</abstract>
+<MD_DataIdentification_language>ES - Español.</MD_DataIdentification_language>
+<topicCategory>
+<principalTopic>  5. Medio ambiente: Recursos medio ambientales, protección y conservación. </principalTopic>
+<principalTopic>  6. Información geocientífica: Información perteneciente a las ciencias de la tierra.   </principalTopic>
+<principalTopic>10. Aguas interiores: Características de las aguas interiores, sistema de drenaje y sus características. </principalTopic>
+<groupCategory>1. Grupo de datos de recursos naturales y clima: Subdivisión de la Infraestructura de Datos Espaciales de México que representan espacialmente la distribución y naturaleza de los recursos naturales que existen en el territorio nacional, así como la configuración de sus diversos climas. A través de ellos puede obtenerse información del estado, presión y respuesta de la interacción humana con su medio ambiente.</groupCategory>
+</topicCategory>
+<keyword>Aniones</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Cationes</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Cenotes</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Geología</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Karst</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Metales</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Península de Yucatán</keyword>
+<type>2. Lugar: La palabra clave identifica un lugar o ubicación cubierto por el conjunto de datos espaciales o producto.</type>
+<keyword>Turismo</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Vulnerabilidad</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<thesaurusName>Ninguno</thesaurusName>
+<edition>1</edition>
+<presentationForm>  5. Mapa digital: Mapa representado en formato raster o vector.</presentationForm>
+<presentationForm>11. Tabla digital: Representación digital de hechos o figuras sistemáticamente presentadas, especialmente en columnas para su utilización directa por los usuarios.</presentationForm>
+<CI_OnlineResource>
+<CI_OnlineResource_linkage>https://www.inegi.org.mx/</CI_OnlineResource_linkage>
+<CI_OnlineResource_description> Página web donde se encuentra información para obtener el recurso con base a las políticas y centros autorizados</CI_OnlineResource_description>
+</CI_OnlineResource>
+<maintenanceAndUpdateFrequency>  8. Irregular: Los datos se actualizan en intervalos desiguales en duración. </maintenanceAndUpdateFrequency>
+<MD_DataIdentification_characterSet>  6. 8859parte1: ISO/IEC 8859-1, Tecnologías de la Información - Conjuntos de caracteres gráficos codificados de 8-bit por byte - Parte 1: Alfabeto Latino No.1.</MD_DataIdentification_characterSet>
+<graphfilename>Por definir</graphfilename>
+<specuse>El CONJUNTO DE DATOS DE LA CARACTERIZACIÓN MORFOLÓGICA DE CENOTES Y DATOS FISICOQUÍMICOS DEL AGUA SUBTERRÁNEA EN LA PENÍNSULA DE YUCATÁN, es utilizado por la Dirección de Recursos Naturales como insumo para realizar mapas, fichas, gráficos de relación profundidad-temperatura/salinidad y relación de las concentraciones de variables químicas contra la normatividad para consumo humano, información que se integra en una ficha disponible en: http://gaia.inegi.org.mx.
+
+El CONJUNTO DE DATOS DE LA CARACTERIZACIÓN MORFOLÓGICA DE CENOTES Y DATOS FISICOQUÍMICOS DEL AGUA SUBTERRÁNEA EN LA PENÍNSULA DE YUCATÁN, tiene el potencial de ser utilizado por académicos, investigadores y diferentes niveles de gobierno, para realizar estudios de calidad del agua en el acuífero kárstico, morfología de cenotes y dinámica de flujos regionales, entre otros.
+</specuse>
+</MD_DataIdentification>
+<CI_Date>
+<Dates_Events>
+<date>2022-11-02</date>
+<dateType>3. Revisión: Identificador de la fecha que especifica cuando el recurso fue examinado o re-examinado y mejorado o corregido.</dateType>
+</Dates_Events>
+<Ad_Date>
+<date_creation>2002-01-01</date_creation>
+<date_begin></date_begin>
+<date_end></date_end>
+<inpname>Conjunto de datos vectoriales fisiográficos. Escala 1:1 000 000 serie I. Continuo nacional</inpname>
+<date_creation>2007-01-01</date_creation>
+<date_begin></date_begin>
+<date_end></date_end>
+<inpname>Conjunto de datos vectoriales edafológicos. Escala 1:250 000 serie II. Continuo nacional</inpname>
+<date_creation>2009-12-31</date_creation>
+<date_begin></date_begin>
+<date_end></date_end>
+<inpname>Conjunto de datos vectoriales geológicos. Escala 1:250 000. Serie I. Continuo nacional</inpname>
+<date_creation>2018-01-01</date_creation>
+<date_begin></date_begin>
+<date_end></date_end>
+<inpname>Conjunto de datos vectoriales de uso del suelo y vegetación. Escala 1:250 000 serie VII. Continuo nacional</inpname>
+<date_creation>2020-01-01</date_creation>
+<date_begin></date_begin>
+<date_end></date_end>
+<inpname>Marco Geoestadístico. Censo de población y Vivienda 2020</inpname>
+<date_creation>2020-01-01</date_creation>
+<date_begin></date_begin>
+<date_end></date_end>
+<inpname>Climas 1902-2011. Edición 2020</inpname>
+</Ad_Date>
+</CI_Date>
+<CI_ResponsibleParty>
+<CI_ResponsibleParty_individualName>Mtro. J. Armando Aguiar Rodríguez</CI_ResponsibleParty_individualName>
+<CI_ResponsibleParty_organisationName>Instituto Nacional de Estadística y Geografía - INEGI</CI_ResponsibleParty_organisationName>
+<CI_ResponsibleParty_positionName>Director de Servicios de Información</CI_ResponsibleParty_positionName>
+<CI_ResponsibleParty_voice>(449) 9105300 Ext. 5486 y 5920. Lada 800 111 46 34 (sin costo)</CI_ResponsibleParty_voice>
+<CI_ResponsibleParty_facsimile></CI_ResponsibleParty_facsimile>
+<CI_ResponsibleParty_deliveryPoint>Avenida Héroe de Nacozari Sur 2301. Fraccionamiento Jardines del Parque, entre calle INEGI, Avenida del Lago y Avenida Paseo de las Garzas</CI_ResponsibleParty_deliveryPoint>
+<CI_ResponsibleParty_city>Aguascalientes</CI_ResponsibleParty_city>
+<CI_ResponsibleParty_administrativeArea>Aguascalientes</CI_ResponsibleParty_administrativeArea>
+<CI_ResponsibleParty_postalCode>20276</CI_ResponsibleParty_postalCode>
+<CI_ResponsibleParty_country>Estados Unidos Mexicanos</CI_ResponsibleParty_country>
+<CI_ResponsibleParty_electronicMailAddress>atencion.usuarios@inegi.org.mx</CI_ResponsibleParty_electronicMailAddress>
+<CI_ResponsibleParty_linkage>http://www.inegi.org.mx/</CI_ResponsibleParty_linkage>
+<CI_ResponsibleParty_role>  5. Distribuidor: Parte que distribuye el recurso.</CI_ResponsibleParty_role>
+</CI_ResponsibleParty>
+<geographicElement>
+<EX_GeographicBoundingBox>
+<westBoundLongitude>-90.235570</westBoundLongitude>
+<eastBoundLongitude>-87.025000</eastBoundLongitude>
+<southBoundLatitude>17.911200</southBoundLatitude>
+<northBoundLatitude>21.394000</northBoundLatitude>
+</EX_GeographicBoundingBox>
+<spatialRepresentationType>1. Vector: Los datos vectoriales se utilizan para representar datos espaciales.</spatialRepresentationType>
+<spatialRepresentationType>3. Tabla del texto: Datos de texto o tabulares que se utilizan para representar datos espaciales.</spatialRepresentationType>
+</geographicElement>
+<MD_ReferenceSystem>
+<ReferenceHorizontalSystem>
+<geograph>
+<latres></latres>
+<longres></longres>
+<geogunit></geogunit>
+</geograph>
+<planar>
+<mapprojn>
+<lambertc>
+<lambertc_stdparll>17.5</lambertc_stdparll>
+<lambertc_stdparll>29.5</lambertc_stdparll>
+<lambertc_longcm>-102.0</lambertc_longcm>
+<lambertc_latprjo>12.0</lambertc_latprjo>
+<lambertc_feast>2500000.0</lambertc_feast>
+<lambertc_fnorth>0.0</lambertc_fnorth>
+</lambertc>
+<mercatort>
+<mercatort_sfctrmer> </mercatort_sfctrmer>
+<mercatort_longcm> </mercatort_longcm>
+<mercatort_latprjo> </mercatort_latprjo>
+<mercatort_feast> </mercatort_feast>
+<mercatort_fnorth> </mercatort_fnorth>
+</mercatort>
+<mercator>
+<mercator_stdparll> </mercator_stdparll>
+<mercator_sfec> </mercator_sfec>
+<mercator_longcm> </mercator_longcm>
+<mercator_feast> </mercator_feast>
+<mercator_fnorth> </mercator_fnorth>
+</mercator>
+<tme>
+<tme_sfctrmer> </tme_sfctrmer>
+<tme_longcm> </tme_longcm>
+<tme_latprjo> </tme_latprjo>
+<tme_feast> </tme_feast>
+<tme_fnorth> </tme_fnorth>
+</tme>
+<anoth_proj_def>
+</anoth_proj_def>
+</mapprojn>
+<gridcoordinatessystem>
+<utm>
+<utm_zone></utm_zone>
+<utm_sfctrmer></utm_sfctrmer>
+<utm_longcm></utm_longcm>
+<utm_latprjo></utm_latprjo>
+<utm_feast></utm_feast>
+<utm_fnorth></utm_fnorth>
+</utm>
+</gridcoordinatessystem>
+<local_planar>
+<local_planar_desc></local_planar_desc>
+<local_planar_geo_inf></local_planar_geo_inf>
+</local_planar>
+<planci>
+<plance>Par coordenado.</plance>
+<coord_repres>
+<absres>0.0001</absres>
+<ordres>0.0001</ordres>
+</coord_repres>
+<distance_and_bearing_repres>
+<distance_res></distance_res>
+<bearing_res></bearing_res>
+<bearing_uni></bearing_uni>
+<ref_bearing_dir></ref_bearing_dir>
+<ref_bearing_mer></ref_bearing_mer>
+</distance_and_bearing_repres>
+<plandu>Metros.</plandu>
+</planci>
+</planar>
+<local_coordinates>
+<local_desc></local_desc>
+<local_geo_inf></local_geo_inf>
+</local_coordinates>
+<geodetic>
+<horizdn>ITRF08 época 2010.0.</horizdn>
+<ellips>Sistema Geodésico de Referencia de 1980 (GRS80).</ellips>
+<semiaxis>6378137.0</semiaxis>
+<denflat>298.257222101</denflat>
+</geodetic>
+</ReferenceHorizontalSystem>
+<ReferenceVerticalSystem>
+<altsys>
+<altdatum></altdatum>
+<altres></altres>
+<altunits></altunits>
+<altenc> </altenc>
+</altsys>
+<depthsys>
+<depthdn></depthdn>
+<depthres></depthres>
+<depthdu></depthdu>
+<depthem> </depthem>
+</depthsys>
+</ReferenceVerticalSystem>
+</MD_ReferenceSystem>
+<DQ_DataQuality>
+<DQ_Scope>
+<level>  5. Conjunto de datos espaciales: Información aplicada al conjunto de datos espaciales.</level>
+</DQ_Scope>
+<report>
+<DQ_Completeness>
+<DQ_Completeness_evalqualsubname>Omisión.
+<DQ_Completeness_nameOfMeasure>Validación de la falta de los rasgos, atributos, dominios y sus relaciones.</DQ_Completeness_nameOfMeasure>
+<DQ_Completeness_measureDescription>Las características y detalles de los objetos (capas), se encuentran en el "Formato de resultados de validación de Calidad", el cual es proporcionado por el Depto. de Procesamiento y Modelado/Subdirección de Regionalización/Dirección de Recursos Naturales/Dirección General Adjunta de Recursos Naturales y Medio Ambiente, en dicho formato están contemplados los siguientes elementos:
+-Ámbito: Conjunto de datos de la Caracterización Morfológica de Cenotes y Datos Fisicoquímicos del Agua Subterránea en la Península de Yucatán, completitud
+-Escala: N/A
+-Nombre del conjunto de datos: Conjunto de datos de la Caracterización Morfológica de Cenotes y Datos Fisicoquímicos del Agua Subterránea en la Península de Yucatán
+-Departamento que evalúa: Procesamiento y Modelado
+-Nombre del evaluador: Dagoberto Jiménez Martínez
+-Tipo de geometría del objeto (capa) espacial: Punto
+-Fecha de inicio de prueba: 25-05-2022
+-Fecha de término de prueba: 25-05-2022
+-No se lleva a cabo ninguna clase de muestreo, ya que la prueba se realiza con la totalidad de los rasgos que integran el conjunto de datos que representa al objeto espacial, o sea, se realiza un método de Evaluación Directa Interna Automatizado.
+
+El resultado de la validación cuantitativa de la congruencia de dominio y topológica es un archivo .txt, el cual contiene los datos de los identificadores de aquellos rasgos o registros que presenten inconsistencias, indicando nombre del objeto, tipo de inconsistencia, el atributo por rasgo o registro si es el caso, y la cantidad de ocurrencias que se presentan por inconsistencia. La prueba se realiza por medio del uso del formato Geodatabase, configurando dos esquemas para este fin, uno de validación y otro de almacenamiento de los resultados tabulares.
+
+El objetivo es que toda la estructura y dominio de valores estén configurados de manera fija, los resultados queden grabados y que exista un registro testigo en una base de datos. Además, se usa el software ArcGIS Desktop con la extensión Data Reviewer, la cual permite la configuración de la validación "por lote" de todo el contenido del Geodatabase, estructura, dominios y reglas de integridad geométrica o topológica. Además de las reglas de integridad espacial (topología) y de acuerdo con el "Descriptor de la Estructura de la Base de Datos de Cenotes", definido por el productor de la información, se validan otras reglas relacionadas con las restricciones o características espaciales, tales como: esclavos y geometrías complejas (multipunto), entre otras.</DQ_Completeness_measureDescription>
+<DQ_Completeness_result>
+<DQ_Completeness_DQ_QuantitativeResult>
+<DQ_Completeness_valueUnit>Porcentaje.</DQ_Completeness_valueUnit>
+<DQ_Completeness_value>El producto cumple</DQ_Completeness_value>
+</DQ_Completeness_DQ_QuantitativeResult>
+</DQ_Completeness_result>
+</DQ_Completeness_evalqualsubname>
+<DQ_Completeness_evalqualsubname>Comisión.
+<DQ_Completeness_nameOfMeasure>Validación de la existencia inválida de los rasgos, atributos, dominios y sus relaciones.</DQ_Completeness_nameOfMeasure>
+<DQ_Completeness_measureDescription>Las características y detalles de los objetos (capas), se encuentran en el "Formato de resultados de validación de Calidad", el cual es proporcionado por el Depto. de Procesamiento y Modelado/Subdirección de Regionalización/Dirección de Recursos Naturales/Dirección General Adjunta de Recursos Naturales y Medio Ambiente, en dicho formato están contemplados los siguientes elementos:
+-Ámbito: Conjunto de datos de la Caracterización Morfológica de Cenotes y Datos Fisicoquímicos del Agua Subterránea en la Península de Yucatán, completitud
+-Escala: N/A
+-Nombre del conjunto de datos: Conjunto de datos de la Caracterización Morfológica de Cenotes y Datos Fisicoquímicos del Agua Subterránea en la Península de Yucatán
+-Departamento que evalúa: Procesamiento y Modelado
+-Nombre del evaluador: Dagoberto Jiménez Martínez
+-Tipo de geometría del objeto (capa) espacial: Punto
+-Fecha de inicio de prueba: 25-05-2022
+-Fecha de término de prueba: 25-05-2022
+-No se lleva a cabo ninguna clase de muestreo, ya que la prueba se realiza con la totalidad de los rasgos que integra el conjunto de datos que representa al objeto espacial, o sea, se realiza un método de Evaluación Directa Interna Automatizado.
+
+El resultado de la validación cuantitativa de la congruencia de dominio y topológica es un archivo .txt, el cual contiene los datos de los identificadores de aquellos rasgos o registros que presenten inconsistencias, indicando nombre del objeto, tipo de inconsistencia, el atributo por rasgo o registro si es el caso, y la cantidad de ocurrencias que se presentan por inconsistencia. La prueba se realiza por medio del uso del formato Geodatabase, configurando dos esquemas para este fin, uno de validación y otro de almacenamiento de los resultados tabulares.
+
+El objetivo es que toda la estructura y dominio de valores estén configurados de manera fija, los resultados queden grabados y que exista un registro testigo en una base de datos. Además, se usa el software ArcGIS Desktop con la extensión Data Reviewer, la cual permite la configuración de la validación "por lote" de todo el contenido del Geodatabase, estructura, dominios y reglas de integridad geométrica o topológica. Además de las reglas de integridad espacial (topología) y de acuerdo con el "Descriptor de la Estructura de la Base de Datos de Cenotes", definido por el productor de la información, se validan otras reglas relacionadas con las restricciones o características espaciales, tales como: esclavos y geometrías complejas (multipunto), entre otras.</DQ_Completeness_measureDescription>
+<DQ_Completeness_result>
+<DQ_Completeness_DQ_QuantitativeResult>
+<DQ_Completeness_valueUnit>Porcentaje.</DQ_Completeness_valueUnit>
+<DQ_Completeness_value>El producto cumple</DQ_Completeness_value>
+</DQ_Completeness_DQ_QuantitativeResult>
+</DQ_Completeness_result>
+</DQ_Completeness_evalqualsubname>
+</DQ_Completeness>
+<DQ_LogicConsistency>
+<DQ_LogicConsistency_evalqualsubname>Consistencia de dominio.
+<DQ_LogicConsistency_nameOfMeasure>Validación de valores de dominios</DQ_LogicConsistency_nameOfMeasure>
+<DQ_LogicConsistency_measureDescription>Las características y detalles de los objetos (capas), se encuentran en el "Formato de resultados de validación de Calidad", el cual es proporcionado por el Depto. de Procesamiento y Modelado, en dicho formato están contemplados los siguientes elementos:
+-Ámbito: Conjunto de datos de la Caracterización Morfológica de Cenotes y Datos Fisicoquímicos del Agua Subterránea en la Península de Yucatán, Consistencia lógica
+-Escala: N/A
+-Nombre del conjunto de datos: Conjunto de datos de la Caracterización Morfológica de Cenotes y Datos Fisicoquímicos del Agua Subterránea en la Península de Yucatán
+-Departamento que evalúa: Procesamiento y Modelado
+-Nombre del evaluador: Dagoberto Jiménez Martínez
+-Tipo de geometría del objeto (capa) espacial: Punto
+-Fecha de inicio de prueba: 25-05-2022
+-Fecha de término de prueba: 25-05-2022
+-No se lleva a cabo ninguna clase de muestreo, ya que la prueba se realiza con la totalidad de los rasgos que integra el conjunto de datos que representa al objeto espacial, o sea, se realiza un método de Evaluación Directa Interna Automatizado.
+
+El resultado de la validación cuantitativa de la congruencia de dominio y topológica es un archivo .txt, el cual contiene los datos de los identificadores de aquellos rasgos o registros que presenten inconsistencias, indicando nombre del objeto, tipo de inconsistencia, el atributo por rasgo o registro si es el caso, y la cantidad de ocurrencias que se presentan por inconsistencia. La prueba se realiza por medio del uso del formato Geodatabase, configurando dos esquemas para este fin, uno de validación y otro de almacenamiento de los resultados tabulares.
+
+El objetivo es que toda la estructura y dominio de valores estén configurados de manera fija, los resultados queden grabados y que exista un registro testigo en una base de datos. Además, se usa el software ArcGIS Desktop con la extensión Data Reviewer, la cual permite la configuración de la validación "por lote" de todo el contenido del Geodatabase, estructura, dominios y reglas de integridad geométrica o topológica. Además de las reglas de integridad espacial (topología) y de acuerdo con el "Descriptor de la Estructura de la Base de Datos de Cenotes", definido por el productor de la información, se validan otras reglas relacionadas con las restricciones o características espaciales, tales como: esclavos y geometrías complejas (multipunto), entre otras.</DQ_LogicConsistency_measureDescription>
+<DQ_LogicConsistency_result>
+<DQ_LogicConsistency_DQ_QuantitativeResult>
+<DQ_LogicConsistency_valueUnit>Porcentaje.</DQ_LogicConsistency_valueUnit>
+<DQ_LogicConsistency_value>El producto cumple</DQ_LogicConsistency_value>
+</DQ_LogicConsistency_DQ_QuantitativeResult>
+</DQ_LogicConsistency_result>
+</DQ_LogicConsistency_evalqualsubname>
+<DQ_LogicConsistency_evalqualsubname>Consistencia topológica.
+<DQ_LogicConsistency_nameOfMeasure>Validación de topología automática.</DQ_LogicConsistency_nameOfMeasure>
+<DQ_LogicConsistency_measureDescription>Las características y detalles de los objetos (capas), se encuentran en el "Formato de resultados de validación de Calidad", el cual es proporcionado por el Depto. de Procesamiento y Modelado, en dicho formato están contemplados los siguientes elementos:
+-Ámbito: Conjunto de datos de la Caracterización Morfológica de Cenotes y Datos Fisicoquímicos del Agua Subterránea en la Península de Yucatán, Consistencia lógica
+-Escala: N/A
+-Nombre del conjunto de datos: Conjunto de datos de la Caracterización Morfológica de Cenotes y Datos Fisicoquímicos del Agua Subterránea en la Península de Yucatán
+-Departamento que evalúa: Procesamiento y Modelado
+-Nombre del evaluador: Dagoberto Jiménez Martínez
+-Tipo de geometría del objeto (capa) espacial: Punto
+-Fecha de inicio de prueba: 25-05-2022
+-Fecha de término de prueba: 25-05-2022
+-No se lleva a cabo ninguna clase de muestreo, ya que la prueba se realiza con la totalidad de los rasgos que integra el conjunto de datos que representa al objeto espacial, o sea, se realiza un método de Evaluación Directa Interna Automatizado.
+
+El resultado de la validación cuantitativa de la congruencia de dominio y topológica es un archivo .txt, el cual contiene los datos de los identificadores de aquellos rasgos o registros que presenten inconsistencias, indicando nombre del objeto, tipo de inconsistencia, el atributo por rasgo o registro si es el caso, y la cantidad de ocurrencias que se presentan por inconsistencia. La prueba se realiza por medio del uso del formato Geodatabase, configurando dos esquemas para este fin, uno de validación y otro de almacenamiento de los resultados tabulares.
+
+El objetivo es que toda la estructura y dominio de valores estén configurados de manera fija, los resultados queden grabados y que exista un registro testigo en una base de datos. Además, se usa el software ArcGIS Desktop con la extensión Data Reviewer, la cual permite la configuración de la validación "por lote" de todo el contenido del Geodatabase, estructura, dominios y reglas de integridad geométrica o topológica. Además de las reglas de integridad espacial (topología) y de acuerdo con el "Descriptor de la Estructura de la Base de Datos de Cenotes", definido por el productor de la información, se validan otras reglas relacionadas con las restricciones o características espaciales, tales como: esclavos y geometrías complejas (multipunto), entre otras.</DQ_LogicConsistency_measureDescription>
+<DQ_LogicConsistency_result>
+<DQ_LogicConsistency_DQ_QuantitativeResult>
+<DQ_LogicConsistency_valueUnit>Porcentaje.</DQ_LogicConsistency_valueUnit>
+<DQ_LogicConsistency_value>El producto cumple</DQ_LogicConsistency_value>
+</DQ_LogicConsistency_DQ_QuantitativeResult>
+</DQ_LogicConsistency_result>
+</DQ_LogicConsistency_evalqualsubname>
+</DQ_LogicConsistency>
+<PositionalAccuracy>
+<PositionalAccuracy_evalqualsubname>
+<PositionalAccuracy_nameOfMeasure></PositionalAccuracy_nameOfMeasure>
+<PositionalAccuracy_measureDescription></PositionalAccuracy_measureDescription>
+<PositionalAccuracy_result>
+<PositionalAccuracy_DQ_QuantitativeResult>
+<PositionalAccuracy_valueUnit></PositionalAccuracy_valueUnit>
+<PositionalAccuracy_value></PositionalAccuracy_value></PositionalAccuracy_DQ_QuantitativeResult>
+</PositionalAccuracy_result>
+</PositionalAccuracy_evalqualsubname>
+</PositionalAccuracy>
+<TemporalAccuracy>
+<TemporalAccuracy_evalqualsubname>
+<TemporalAccuracy_nameOfMeasure></TemporalAccuracy_nameOfMeasure>
+<TemporalAccuracy_measureDescription></TemporalAccuracy_measureDescription>
+<TemporalAccuracy_result>
+<TemporalAccuracy_DQ_QuantitativeResult>
+<TemporalAccuracy_valueUnit></TemporalAccuracy_valueUnit>
+<TemporalAccuracy_value></TemporalAccuracy_value></TemporalAccuracy_DQ_QuantitativeResult>
+</TemporalAccuracy_result>
+</TemporalAccuracy_evalqualsubname>
+</TemporalAccuracy>
+<ThematicAccuracy>
+<ThematicAccuracy_evalqualsubname>
+<ThematicAccuracy_nameOfMeasure></ThematicAccuracy_nameOfMeasure>
+<ThematicAccuracy_measureDescription></ThematicAccuracy_measureDescription>
+<ThematicAccuracy_result>
+<ThematicAccuracy_DQ_QuantitativeResult>
+<ThematicAccuracy_valueUnit></ThematicAccuracy_valueUnit>
+<ThematicAccuracy_value></ThematicAccuracy_value></ThematicAccuracy_DQ_QuantitativeResult>
+</ThematicAccuracy_result>
+</ThematicAccuracy_evalqualsubname>
+</ThematicAccuracy>
+</report>
+<LI_Lineage>
+<statement>El producto "Conjunto de datos de la Caracterización Morfológica de Cenotes y Datos Fisicoquímicos del Agua Subterránea en la Península de Yucatán" es resultado de un análisis geoespacial y de investigación para identificar los cenotes que permitan obtener muestras de agua en superficie y a profundidad para conocer el comportamiento del acuífero cárstico de la Península de Yucatán, mediante el estudio y la caracterización morfológica y físicoquímica de los cenotes para identificar la relación agua dulce/salada, zonas de intrusión marina (haloclina), que permitan sustentar políticas públicas que coadyuven a la explotación racional y sustentable del acuífero cárstico más importante del país.</statement>
+<LI_ProcessStep>
+<LI_ProcessStep_description>Se emplean métodos digitales de análisis y procesamiento de información para la generar información temática motivo de este estudio. A continuación, se describe el proceso para seleccionar y documentar los cenotes objeto del estudio.
+
+1. PREPROCESO. Selección del área de estudio considerando las condiciones geológicas de la región, presencia de rocas calizas con desarrollo avanzado del proceso de carstificación; con ayuda de la ubicación de cenotes, se obtuvo información de las cartas temáticas del INEGI: Uso de suelo y vegetación escala 1:250 000 serie VII, Edafología escala 1:250 000 serie II, Cuerpos de agua escala 1:50 000, Carta topográfica escala 1:50 000 y Carta fisiográfica escala 1:1 000 000; con esta información se realizó el llenado preliminar de las fichas descriptivas de los cenotes.
+
+2. PROCESAMIENTO. Con la capa generada en el punto anterior y utilizando las imágenes de satélite en línea (Base Map y Google Earth), se realizó un paneo en toda la región para identificar los cenotes más grandes desde la superficie. Paralelo a este trabajo se realizó investigación en internet para identificar los cenotes más profundos; a medida que se seleccionaban, se hacía un llenado de la ficha preliminar.
+
+3. RECORRIDO DE CAMPO. Una vez acotados los cenotes objeto del estudio, a fin de obtener datos básicos sobre el terreno que permitan caracterizar su morfología y obtener muestras de agua de superficie y a profundidad (máximo 20 m), se realizó la medición en el cuerpo de agua mediante sonda multiparamétrica, de las variaciones de profundidad, temperatura y conductividad eléctrica. Los datos verificados en campo fueron, entre otros: tipo de vegetación, características del suelo, del relieve y la geología, así como datos del agua (pH, conductividad eléctrica, sólidos totales disueltos, color, olor, turbiedad, etc.).
+
+4. POSTPROCESO. Una vez concluida la verificación de campo, se integraron los datos, se mandaron las muestras de agua a laboratorio, se ajustaron y complementaron las fichas descriptivas.
+
+5. GENERACIÓN DE PRODUCTOS. Con los datos corregidos se generaron las capas de resultados: metales, macroelementos (cationes y aniones), perfil de la columna de agua, así como características de los cenotes; en esta última capa se integran los datos capturados en las fichas de campo.
+
+6. ESTANDARIZACIÓN. En cada capa se validó la información para que los atributos coincidan con los definidos en el documento Descriptor de la Estructura de la Base de Datos de Cenotes.
+
+7. VALIDACIÓN Y CONSISTENCIA TOPOLÓGICA. La información es entregada al Departamento de Procesamiento y Modelado para llevar a cabo, a través de métodos semiautomatizados, las validaciones de completitud y consistencia topológica.
+
+8. ENTREGA DEL PRODUCTO A BASE DE DATOS. El conjunto de datos geoespacial es entregado para su distribución interna y externa.
+
+TECNOLOGÍA UTILIZADA: a) Sistema de Información Geográfica. b) PC de escritorio con Procesador CORE 2 DUO, Windows 10.</LI_ProcessStep_description>
+<LI_ProcessStep_description>CONTROL DE CALIDAD:
+CRITERIO: Completitud.
+SUBCRITERIO: Omisión.
+ÁMBITO DE LA REVISIÓN: Todos los objetos espaciales del Conjunto de datos de la Caracterización Morfológica de Cenotes y Datos Fisicoquímicos del Agua Subterránea en la Península de Yucatán
+INSPECCIÓN: Completa.
+EXPLICACIÓN DE LA REVISIÓN: Como parte del proceso de revisión de la información vectorial, se realiza la búsqueda de inconsistencias tanto geoespaciales como atributos y dominios de valores declarados en el ?Descriptor de la Estructura de la Base de Datos de Cenotes? para mantener la congruencia con los documentos normativos de uso interno.
+RESULTADOS DE LA REVISIÓN: Las omisiones fueron corregidas tomando como base el Descriptor de la Estructura de la Base de Datos de Cenotes.
+EVALUADORES: Dirección General Adjunta de Recursos Naturales - Departamento de Procesamiento y Modelado (INEGI).</LI_ProcessStep_description>
+<LI_ProcessStep_description>CONTROL DE CALIDAD:
+CRITERIO: Consistencia lógica.
+SUBCRITERIO: Consistencia topológica.
+ÁMBITO DE LA REVISIÓN: Todos los objetos espaciales del Conjunto de datos de la Caracterización Morfológica de Cenotes y Datos Fisicoquímicos del Agua Subterránea en la Península de Yucatán
+INSPECCIÓN: Completa.
+EXPLICACIÓN DE LA REVISIÓN: Mediante algoritmos incluidos en el mismo Sistema de Información Geográfica empleado, se identifican inconsistencias en los datos basados en el Descriptor de la Estructura de la Base de Datos de Cenotes.
+NIVEL DE CONFORMIDAD DE CALIDAD: Para la capa se aplicó una tolerancia de error de 0.00001m ~ 10m.
+RESULTADOS DE LA REVISIÓN: Menos del 5% de los objetos del producto presentó alguna inconsistencia topológica, la solución de varias de ellas requirió la consulta de las fichas de campo.
+EVALUADORES: Dirección General Adjunta de Recursos Naturales - Departamento de Procesamiento y Modelado (INEGI).</LI_ProcessStep_description>
+<LI_ProcessStep_description>CONTROL DE CALIDAD:
+CRITERIO: Exactitud Temática.
+SUBCRITERIO: Corrección de Clasificación.
+ÁMBITO DE LA REVISIÓN: Todos los objetos espaciales del Conjunto de datos de la Caracterización Morfológica de Cenotes y Datos Fisicoquímicos del Agua Subterránea en la Península de Yucatán
+INSPECCIÓN: Completa.
+EXPLICACIÓN DE LA REVISIÓN: Mediante una revisión visual de los gráficos que ilustran el nivel de desarrollo cárstico del cenote, no hubo inconsistencias en la clasificación de los rasgos.
+
+RESULTADOS DE LA REVISIÓN: Aproximadamente el 10 % de los objetos del producto presentaron alguna inconsistencia en los valores, cuya solución requirió la consulta y conciliación entre los responsables de los cenotes.
+
+EVALUADORES: Dirección General Adjunta de Recursos Naturales\Dirección de Recursos Naturales\Subdirección de vegetación y suelos\Departamento de Procesamiento y Modelado. (INEGI).
+OBSERVACIONES: Estos errores se debieron al proceso de captura de la información o la actualización de los catálogos del Descriptor de la Estructura de la Base de Datos de Cenotes.</LI_ProcessStep_description>
+</LI_ProcessStep>
+<LI_Source>
+<LI_Source_description>Imágenes satelitales libres o disponibles en la base de datos de la DGGyMA como lo son: Base Map y Google Earth.</LI_Source_description>
+<LI_Source_description>Conjunto de datos vectoriales fisiográficos. Escala 1:1 000 000 serie I. Continuo nacional. Fuente: INEGI, 2002</LI_Source_description>
+<LI_Source_description>Conjunto de datos vectoriales geológicos. Escala 1:250 000. Serie I. Continuo nacional. Fuente: INEGI, 2009</LI_Source_description>
+<LI_Source_description>Conjunto de datos vectoriales edafológicos. Escala 1:250 000 serie II. Continuo nacional. Fuente: INEGI, 2007</LI_Source_description>
+<LI_Source_description>Conjunto de datos vectoriales de uso del suelo y vegetación. Escala 1:250 000 serie VII. Continuo nacional. Fuente: INEGI, 2018</LI_Source_description>
+<LI_Source_description>Marco Geoestadístico. Censo de población y Vivienda 2020. Fuente: INEGI, 2020</LI_Source_description>
+</LI_Source>
+</LI_Lineage>
+</DQ_DataQuality>
+<Attributes>
+<schemaAscii>Son capas individuales en donde cada una de ellas representa un conjunto de objetos espaciales agrupados de acuerdo con un tema específico y relacionados con sus atributos que los describen, los cuales se encuentran contenidos en tablas. Las entidades están descritas en el Descriptor de la Estructura de la Base de Datos de Cenotes.</schemaAscii>
+<entity_detail>Es una base de datos geográfico (Cenotes), asociada a tres tablas: Macroelementos, Metales y Perfil de columna de agua. El Descriptor de la Estructura de la Base de Datos de Cenotes, contiene una descripción de las entidades y atributos representados.</entity_detail>
+</Attributes>
+<MD_Distribution>
+<accessConstraints>2. Patente: Derecho exclusivo que otorga la Ley de la Propiedad Industrial a la persona física que realice una invención para fabricar, vender, usar o dar licencias de uso.</accessConstraints>
+<useConstraints></useConstraints>
+<otherConstraints>El Instituto Nacional de Estadística y Geografía no se hace responsable por el uso que usted dé a los datos</otherConstraints>
+<MD_Format>
+<name>ShapeFile (.shp) y tablas (.dbf)</name>
+<version>No aplica</version>
+</MD_Format>
+</MD_Distribution>
+<Inf_Metadata>
+<metadataStandardName>ISO 19115 Información Geográfica - Metadatos (Norma Técnica para Metadatos).</metadataStandardName>
+<metadataStandardVersion>2003 (1.0).</metadataStandardVersion>
+<Inf_Metadata_language>ES - Español.</Inf_Metadata_language>
+<CI_ResponsibleParty>
+<Inf_Metadata_CI_ResponsibleParty_individualName>Lic. Rafael Arrioja Urzúa</Inf_Metadata_CI_ResponsibleParty_individualName>
+<Inf_Metadata_CI_ResponsibleParty_organisationName>Instituto Nacional de Estadística y Geografía - INEGI</Inf_Metadata_CI_ResponsibleParty_organisationName>
+<Inf_Metadata_CI_ResponsibleParty_positionName>Jefe del Departamento de Administración de Metadatos</Inf_Metadata_CI_ResponsibleParty_positionName>
+<Inf_Metadata_CI_ResponsibleParty_voice>(449) 9105300 Ext. 1750 y 5631</Inf_Metadata_CI_ResponsibleParty_voice>
+<Inf_Metadata_CI_ResponsibleParty_facsimile></Inf_Metadata_CI_ResponsibleParty_facsimile>
+<Inf_Metadata_CI_ResponsibleParty_deliveryPoint>Avenida Héroe de Nacozari Sur 2301. Fraccionamiento Jardines del Parque, entre calle INEGI, Avenida del Lago y Avenida Paseo de las Garzas</Inf_Metadata_CI_ResponsibleParty_deliveryPoint>
+<Inf_Metadata_CI_ResponsibleParty_city>Aguascalientes</Inf_Metadata_CI_ResponsibleParty_city>
+<Inf_Metadata_CI_ResponsibleParty_administrativeArea>Aguascalientes</Inf_Metadata_CI_ResponsibleParty_administrativeArea>
+<Inf_Metadata_CI_ResponsibleParty_postalCode>20276</Inf_Metadata_CI_ResponsibleParty_postalCode>
+<Inf_Metadata_CI_ResponsibleParty_country>Estados Unidos Mexicanos</Inf_Metadata_CI_ResponsibleParty_country>
+<Inf_Metadata_CI_ResponsibleParty_electronicMailAddress>rafael.arrioja@inegi.org.mx</Inf_Metadata_CI_ResponsibleParty_electronicMailAddress>
+<Inf_Metadata_CI_ResponsibleParty_role>  7. Punto de contacto: Parte que puede ser contactada para informarse sobre el recurso o adquisición del mismo.</Inf_Metadata_CI_ResponsibleParty_role>
+</CI_ResponsibleParty>
+<dateStamp>2022-11-14</dateStamp>
+<Inf_Metadata_characterSet>  6. 8859parte1: ISO/IEC 8859-1, Tecnologías de la Información - Conjuntos de caracteres gráficos codificados de 8-bit por byte - Parte 1: Alfabeto Latino No.1.</Inf_Metadata_characterSet>
+</Inf_Metadata>
+</Metadata>

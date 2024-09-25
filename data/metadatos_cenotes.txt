@@ -1,0 +1,37 @@
+Identifier: 
+
+Title: Conjunto de datos de la Caracterización Morfológica de Cenotes y Datos Fisicoquímicos del Agua Subterránea en la Península de Yucatán
+
+Description:
+El conjunto de datos de la Caracterización Morfológica de Cenotes y Datos Fisicoquímicos del Agua Subterránea en la Península de Yucatán contiene las concentraciones de cationes, aniones y metales, datos del medio geográfico que describen el contexto de cada sitio, entre otros: ubicación, coordenadas, nombre del cenote, altitud, localidad, clima, geología, fisiografía, uso de suelo y vegetación, clasificación del cenote, dimensiones estimadas, estructuras geológicas identificadas, parámetros físicos y químicos del agua obtenidos en campo, así como gráficos de relación profundidad-temperatura, profundidad-salinidad y fotografías que captan el entorno.
+Para su generación se realizó el procesamiento de información digital considerando las condiciones geológicas de la región, recorridos de campo para validación y obtención de datos; El resultado final es una capa de puntos con la información de los cenotes, asi como tres tablas asociadas con los resultados de macroelementos, metales y perfil de la columna de agua, estandarizada y validada de acuerdo con las especificaciones del "Descriptor de la Estructura de la Base de Datos de Cenotes"(definido por el productor de la información).
+El 17 de julio de 2023 se solicita el reemplazo del conjunto de datos debido en marzo de 2023 se publicó la actualización de la Norma Oficial Mexicana que establece 
+los límites permisibles de la calidad del agua para uso y consumo humano, dicha actualización presenta cambios en los límites permisibles de nitrato, arsénico, bario, mercurio y plomo, además salieron de la norma cloruros, sodio y zinc, por lo  que, se actualizaron los gráficos que originalmente tienen como referencia a la misma norma, pero emitida en 1994. 
+Se incorporaron los resultados de metales Al (aluminio), As (arsénico), Ba (bario), Cd (Cadmio), Cu (Cobre), Cr (cromo), Fe (hierro), Mg (magnesio), Hg (mercurio) 
+y Pb (Plomo) a los cenotes: Xul Ha, Cocalitos y Buenavista (62, 60 y 58).
+Se corrigió el dato de color del agua en los cenotes: Escondido, Kaan Luum, Tercer Cielo, Angelita, Buenavista, Cocoalitos, Cenote Azul, Xul-Ha y El Lagarto de Oro, originalmente tenía color azul se cambio por incolora.
+Se cambio el nombre de los siguientes objetos espaciales: Chichancanab1,  Chichancanab2 y Chichancanab3, cambiaron a Lago Chichancanab, Lago Chichancanab y Lago Chichancanab, Xulha a Xul-Ha, El Cenote Azul a Cenote Azul. 
+
+Modified: 2023-07-17 
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: atencion.usuarios@inegi.org.mx
+
+License: Términos de Libre Uso de la información del INEGI
+https://www.inegi.org.mx/inegi/terminos.html
+
+DataDictionary: https://www.inegi.org.mx/temas/hidrologia/#documentacion
+
+Keyword: "Aniones", "Cationes", "Cenotes", "Geología", "Karst", "Metales", "Península de Yucatán", "Turismo", "Vulnerabilidad"
+
+ContactPoint: Mtro. J. Armando Aguiar Rodríguez, 800 111 4634
+
+Temporal: 2022
+
+Spatial: Yucatán y Quintana Roo
+
+AccrualPeriodicity: Irregular
+
+
+Distribution: https://www.inegi.org.mx/app/mapas/?t=186&esc=1

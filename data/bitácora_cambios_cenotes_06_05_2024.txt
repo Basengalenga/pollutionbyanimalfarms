@@ -1,0 +1,9 @@
+﻿CARACTERIZACIÓN MORFOLÓGICA DE CENOTES Y DATOS FISICOQUÍMICOS DEL AGUA SUBTERRÁNEA EN LA PENÍNSULA DE YUCATÁN, Reemplazo de conjunto de datos geoespaciales.
+El 06 de mayo de 2024 se solicita el reemplazo del conjunto de datos debido a que se realizaron las siguientes mejoras:
+Se incorporaron los resultados de metales (Al (aluminio), As (arsénico), Ba (bario), Cd (Cadmio), Cu (Cobre), Cr (cromo), Fe (hierro), Mg (magnesio), Hg (mercurio) y Pb (Plomo) a los cenotes: Xul Ha, Cocalitos y Buenavista (62, 60 y 58).
+Se corrigió el dato de color del agua en los cenotes: Escondido, Kaan Luum, Tercer Cielo, Angelita, Buenavista, Cocoalitos, Cenote Azul, Xul-Ha y El Lagarto de Oro, originalmente tenía color azul se cambio por incolora.
+Se cambio el nombre de los siguientes objetos espaciales: Chichancanab1,  Chichancanab2 y Chichancanab3, cambiaron a Lago Chichancanab, Lago Chichancanab y Lago Chichancanab, Xulha a Xul-Ha, El Cenote Azul a Cenote Azul. 
+En marzo de 2023 se publicó la actualización de la Norma Oficial Mexicana que establece los límites permisibles de la calidad del agua para uso y consumo humano, dicha actualización presenta cambios en los límites permisibles de nitrato, arsénico, bario, mercurio y plomo, además salieron de la norma cloruros, sodio y zinc, por lo  que, consideramos conveniente actualizar los gráficos que originalmente tienen como referencia a la misma norma, pero emitida en 1994.
+
+
+
